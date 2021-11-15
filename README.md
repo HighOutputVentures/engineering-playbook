@@ -5,53 +5,59 @@
 ## TABLE CONTENTS
 
 ### Project
-Initializing a Project
-Agile Development
-Jira Cards
-User Stories
-Acceptance Criteria
-Definition of Done
-Release Cycles
-Release Notes
+1. Initializing a Project
+2. Agile Development
+3. Jira Cards
+4. User Stories
+5. Acceptance Criteria
+6. Definition of Done
+7. Release Cycles
+8. Release Notes
+
 ### Hiring
-Engineering Remote Interviews
+1. Engineering Remote Interviews
 
 
 ### Team
-Open Collaboration
-Daily Stand-up
-Retrospective Meeting
-Capacity Resource Planning
-Event Storming
+1. Open Collaboration
+2. Daily Stand-up
+3. Retrospective Meeting
+4. Capacity Resource Planning
+5. Event Storming
 
 
 ### Documentation
-Living Documentation
+1. Living Documentation
 
 ### Git
-Pull Request
-Git Commit Message
-Review
+1. Pull Request
+2. Git Commit Message
+3. PR Review
 
 ### Backend Development
-Backend TDD
-Backend BDD
-GraphQL API Design
+1. Tech Stack
+2. Backend TDD
+3. Backend BDD
+4. GraphQL API Design
 
 ### Frontend Development
-_TODO_
+1. Tech Stack
+
+### DevOps
+1. Tech Stack
 
 ### QA
-_TODO_
+1. Tech Stack
+
 ### Culture
-Blameless Culture
+1. Blameless Culture
 
 ### Experimental
-Threat Modeling
-Risk Management
-Pre-Mortem
-Mentorship and Apprenticeship
-Game Days
+- Threat Modeling
+- Risk Management
+- Pre-Mortem
+- Mentorship and Apprenticeship
+- Game Days
 
 ## Resources
 1. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
