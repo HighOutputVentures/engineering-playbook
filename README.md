@@ -11,14 +11,14 @@ Jira Cards
 User Stories
 Acceptance Criteria
 Definition of Done
-
+Release Cycles
+Release Notes
 ### Hiring
 Engineering Remote Interviews
 
 
 ### Team
 Open Collaboration
-Release Cycles
 Daily Stand-up
 Retrospective Meeting
 Capacity Resource Planning
@@ -38,6 +38,10 @@ Backend TDD
 Backend BDD
 GraphQL API Design
 
+### Frontend Development
+
+### QA
+
 ### Culture
 Blameless Culture
 
@@ -45,6 +49,8 @@ Blameless Culture
 Threat Modeling
 Risk Management
 Pre-Mortem
+Mentorship and Apprenticeship
+Game Days
 
 ## Resources
 1. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
