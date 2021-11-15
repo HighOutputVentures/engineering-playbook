@@ -39,9 +39,10 @@ Backend BDD
 GraphQL API Design
 
 ### Frontend Development
+_TODO_
 
 ### QA
-
+_TODO_
 ### Culture
 Blameless Culture
 
