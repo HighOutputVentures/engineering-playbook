@@ -6,7 +6,7 @@ _TODO_
 _TODO_
 
 ## When should I create an Epic?
-_TODO_
+Are large bodies of work that can be broken down into a number of smaller tasks (called stories).
 
 ## Difference between Epic and the other issue types?
 _TODO_
