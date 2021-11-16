@@ -2,7 +2,8 @@
 
 ## What is a Story/User Story?
 _TODO_
-## Naming `title` guidelines
+
+## Naming title guidelines
 _TODO_
 
 ## Writing a description guidelines

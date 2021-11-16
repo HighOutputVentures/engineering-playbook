@@ -1,3 +1,10 @@
 # TASK CARD
 
+## What is a Task?
+_TODO_
+
+## Naming title guidelines
+_TODO_
+
+## Writing a description guidelines
 _TODO_
