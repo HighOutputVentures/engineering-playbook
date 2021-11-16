@@ -37,7 +37,7 @@ _TODO_
 ## Documentation
 _TODO_
 
-## Developer Experience
+## Developer Experience (DevEx)
 [] - It should execute tests (unit, integration and etc.)
 [] - Have commit message guidelines
 -------
