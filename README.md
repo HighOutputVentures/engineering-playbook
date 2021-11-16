@@ -19,8 +19,13 @@ TABLE OF CONTENTS
    2. Backlog Management
    3. Retrospectives
 3. Code Reviews
-4. Documentation
-5. Developer Experience (DevEx)
+4. Testing
+   1. BE Unit Tests
+   2. FE Unit Tests
+   3. API Integration Tests
+   4. E2E Tests
+5. Documentation
+6. Developer Experience (DevEx)
 
 # Engineering Foundational Checklist
 
