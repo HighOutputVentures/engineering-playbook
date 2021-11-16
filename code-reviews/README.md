@@ -2,8 +2,6 @@
 
 ## Pull Requests
 
-
-## Mock Code Reviews
-
+## Style Guides
 
 ## Pair Programming

@@ -1,4 +1,6 @@
 # ENGINEERING PLAYBOOK
+
+This is a living documentation.
 ## What is a "playbook"?
 
 _TODO_
@@ -26,6 +28,9 @@ _TODO_
    3. API Integration Tests
    4. E2E Tests
 5. Documentation
+   1. Pull Requests
+   2. Style Guide
+   3. Pair Programming
 6. Hiring
 7. Onboarding
 8. Developer Experience (DevEx)
@@ -86,7 +91,8 @@ Please see `Developer Experience`, for more details.
 4. [Good Developer Experience](https://developerexperience.io/practices/good-developer-experience)
 5. [Developer Experience Engineer](https://www.helpnetsecurity.com/2021/07/16/developer-experience-engineer/)
 6. [DevOps, SRE, Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
-7. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
+7. [Setting the tage for Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
+8. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
 
 
 
