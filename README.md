@@ -1,9 +1,46 @@
 # ENGINEERING PLAYBOOK
+## What is a "playbook"?
+
+_TODO_
+
+## Why we should have a playbook?
+
+_TODO_
+
+## General Guidance
+_TODO_
+
+-------
+
+# Engineering Foundational Checklist
+
+## Source Control
+[] - Merges are done through Pull Request
+[] - Pull Request's reference related work items
+[] - It follows commit message guidelines
+
+## Task Tracking
+[] - Boards are organized (labels, columns, swimlanes)
+
+## Agile  Development
+[] - The Project Lead runs a Daily Standup
+[] - Agile processes and practices are clearly defined within the team.
+[] - Backlog management
 
 
+## Code Reviews
+[] - It should follow the code standards
+[] - Linters, unit tests, build pipelines should be setup
+## Retrospectives
+[] - It should be conducted once a week
 
-## TABLE CONTENTS
+## Documentation
+_TODO_
 
+## Developer Experience
+[] - It should execute tests (unit, integration and etc.)
+[] - Have commit message guidelines
+-------
 ### Project
 1. Initializing a Project
 2. Agile Development
@@ -39,6 +76,7 @@
 2. Backend TDD
 3. Backend BDD
 4. GraphQL API Design
+5. Feature Toggling
 
 ### Frontend Development
 1. Tech Stack
