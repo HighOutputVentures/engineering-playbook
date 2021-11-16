@@ -2,6 +2,6 @@
 
 ## Pull Requests
 
-## Style Guides
+## Feedback
 
 ## Pair Programming

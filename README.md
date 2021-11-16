@@ -17,23 +17,39 @@ _TODO_
 ## TABLE OF CONTENTS
 
 1. Engineering Foundational Checklists
+   1. Introduction
+   2. FE
+   3. BE
+   4. DevOps
+   5. QA
 2. Agile Development
-   1. Card Management
-   2. Backlog Management
-   3. Retrospectives
-3. Code Reviews
-4. Testing
+   1. Introduction
+   2. Card Management
+   3. Backlog Management
+   4. Retrospectives
+3. Developing
+   1. Introduction
+   2. Refactoring
+   3. Feature Flags and Promotion
+4. Code Reviews
+   1. Introduction
+   2. Pull Requests
+   3. Feedback
+   4. Pair Programming
+5. Testing
    1. BE Unit Tests
    2. FE Unit Tests
    3. API Integration Tests
    4. E2E Tests
-5. Documentation
+6. Documentation
    1. Pull Requests
    2. Style Guide
    3. Pair Programming
-6. Hiring
-7. Onboarding
-8. Developer Experience (DevEx)
+7. Hiring
+   1. Engineering Interviews
+8. Onboarding
+   1. Workstation Setup
+9.  Developer Experience (DevEx)
 
 # Engineering Foundational Checklist
 
