@@ -1,15 +1,15 @@
 # Card Management
 
-Epic Card
+## Epic
 
-Story Card
+## Story
 
-Sub-Task Card
+## Sub-task
 
-Issue Card
+## Issue
 
-Task Card 
+## Task 
 
-Bug Card
+## Bug
 
-Hotfix Card
+## Hotfix

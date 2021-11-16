@@ -1,3 +1,3 @@
 # SOURCE CONTROL
 
-Git commmit message guidelines
+## Git commmit message guidelines
