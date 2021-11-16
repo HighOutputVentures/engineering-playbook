@@ -2,6 +2,12 @@
 ## What is an Epic?
 _TODO_
 
+## Why should I create an Epic?
+_TODO_
+
+## When should I create an Epic?
+_TODO_
+
 ## Difference between Epic and the other issue types?
 _TODO_
 
