@@ -12,7 +12,8 @@ _TODO_
 
 -------
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
+
 1. Engineering Foundational Checklists
 2. Agile Development
    1. Card Management
@@ -25,7 +26,9 @@ TABLE OF CONTENTS
    3. API Integration Tests
    4. E2E Tests
 5. Documentation
-6. Developer Experience (DevEx)
+6. Hiring
+7. Onboarding
+8. Developer Experience (DevEx)
 
 # Engineering Foundational Checklist
 
@@ -79,5 +82,11 @@ Please see `Developer Experience`, for more details.
 ## Resources
 1. [Naming Task, Bug, User Story Titles](https://stratejos.ai/blog/naming-task-bug-user-story-titles/)
 2. [Advantages of the "As A User I Want To" User Story Template](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
-3. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
+3. [Agile Requriements Best Practices](http://agilemodeling.com/essays/agileRequirementsBestPractices.htm)
+4. [Good Developer Experience](https://developerexperience.io/practices/good-developer-experience)
+5. [Developer Experience Engineer](https://www.helpnetsecurity.com/2021/07/16/developer-experience-engineer/)
+6. [DevOps, SRE, Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
+7. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
+
+
 
