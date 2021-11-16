@@ -12,6 +12,16 @@ _TODO_
 
 -------
 
+TABLE OF CONTENTS
+1. Engineering Foundational Checklists
+2. Agile Development
+   1. Card Management
+   2. Backlog Management
+   3. Retrospectives
+3. Code Reviews
+4. Documentation
+5. Developer Experience (DevEx)
+
 # Engineering Foundational Checklist
 
 ## Source Control
