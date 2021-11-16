@@ -15,31 +15,34 @@ _TODO_
 # Engineering Foundational Checklist
 
 ## Source Control
-- [ ] - Merges are done through Pull Request
-- [ ] - Pull Request's reference related work items
-- [ ] - It follows commit message guidelines
+- [ ] Merges are done through Pull Request
+- [ ] Pull Request's reference related work items
+- [ ] It follows commit message guidelines
 
 ## Task Tracking
-- [ ] - Boards are organized (labels, columns, swimlanes)
+- [ ] Boards are organized (labels, columns, swimlanes)
+- [ ] Card Limitation
 
 ## Agile  Development
-- [ ] - The Project Lead runs a Daily Standup
-- [ ] - Agile processes and practices are clearly defined within the team.
-- [ ] - Backlog management
+- [ ] The Project Lead runs a Daily Standup
+- [ ] Agile processes and practices are clearly defined within the team.
+- [ ] Backlog management
 
 
 ## Code Reviews
-- [ ] - It should follow the code standards
-- [ ] - Linters, unit tests, build pipelines should be setup
+- [ ] It should follow the code standards
+- [ ] Linters, unit tests, build pipelines should be setup
 ## Retrospectives
-- [ ] - It should be conducted once a week
+- [ ] It should be conducted once a week
 
 ## Documentation
-_TODO_
+- [ ] It should have project overview (vision, objectives, features, and etc.)
+- [ ] It should have architectural documentation (alternatives, why certain it is chosen, and etc.)
+- [ ] Tech Stack (programming language, framework, and etc.)
 
 ## Developer Experience (DevEx)
-- [ ] - It should execute tests (unit, integration and etc.)
-- [ ] - Have commit message guidelines
+- [ ] It should execute tests (unit, integration and etc.)
+- [ ] Have commit message guidelines
 
 -------
 ### Project
@@ -99,6 +102,7 @@ _TODO_
 - Game Days
 
 ## Resources
-1. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
-2. https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template
+1. [Naming Task, Bug, User Story Titles](https://stratejos.ai/blog/naming-task-bug-user-story-titles/)
+2. [Advantages of the "As A User I Want To" User Story Template](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
+3. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
 
