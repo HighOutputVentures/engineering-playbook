@@ -61,7 +61,6 @@ Please see `Developer Experience`, for more details.
 
 -------
 
-
 ## Resources
 1. [Naming Task, Bug, User Story Titles](https://stratejos.ai/blog/naming-task-bug-user-story-titles/)
 2. [Advantages of the "As A User I Want To" User Story Template](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
