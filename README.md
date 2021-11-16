@@ -32,7 +32,7 @@ Please see, `Card Management` and `Backlog Management` , for more details.
 - [ ] Agile processes and practices are clearly defined within the team.
 - [ ] Backlog management
 
-Please see, `Agile`, for more details.
+Please see, `Agile Development`, for more details.
 
 ## Code Reviews
 - [ ] It should follow the code standards
@@ -81,9 +81,6 @@ Please see `Developer Experience`, for more details.
 4. Capacity Resource Planning
 5. Event Storming
 
-
-### Documentation
-1. Living Documentation
 
 ### Git
 1. Pull Request
