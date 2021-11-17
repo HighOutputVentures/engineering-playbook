@@ -9,4 +9,7 @@ Make it imperative
 Write a migration script for handling hashed value for field, `bankAccountNumber`.
 
 ## Writing a description guidelines
-It should define the purpose and the additional details for this taks.
+It should define the purpose and the additional details for this tasks.
+
+## Resources
+1. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
