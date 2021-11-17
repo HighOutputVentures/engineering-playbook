@@ -19,6 +19,7 @@ Please see, `Card Management` and `Backlog Management` , for more details.
 - [ ] The Project Lead runs a Daily Standup
 - [ ] Agile processes and practices are clearly defined within the team.
 - [ ] Backlog management
+- [ ] Pull system task assignment
 
 Please see, `Agile Development`, for more details.
 
