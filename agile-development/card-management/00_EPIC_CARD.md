@@ -2,7 +2,7 @@
 ## What is an Epic?
 Are large bodies of work that can be broken down into a number of smaller tasks (called stories).
 
-## Why should I create an Epic?
+## Why should we create an Epic?
 To categorize and organize common pieces for the required work into a shippable pieces.
 
 ## When should I create an Epic?
