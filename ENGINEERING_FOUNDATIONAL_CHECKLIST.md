@@ -10,6 +10,8 @@ Please see, `Source Control`, for more details.
 ## Task Tracking
 - [ ] Boards are organized (labels, columns, swimlanes)
 - [ ] Card Limitation
+- [ ] Card Labels/Tags
+- [ ] Components
 
 Please see, `Card Management` and `Backlog Management` , for more details.
 
