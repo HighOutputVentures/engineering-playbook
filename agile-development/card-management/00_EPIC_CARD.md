@@ -42,3 +42,8 @@ that <provides this value>
 unlike <competitor, current solution, non-existing solution>
 
 our solution <does something better -- the why?>
+
+## Resources
+1. https://www.scaledagileframework.com/epic/
+2. https://www.atlassian.com/agile/tutorials/epics
+3. https://www.atlassian.com/agile/project-management/epics-stories-themes
