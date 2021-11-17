@@ -61,7 +61,8 @@ _TODO_
 5. [Developer Experience Engineer](https://www.helpnetsecurity.com/2021/07/16/developer-experience-engineer/)
 6. [DevOps, SRE, Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 7. [Setting the tage for Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
-8. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
+8. [Benefits of Pull System](https://www.planview.com/resources/articles/benefits-pull-system/)
+9. [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
 
 
 
