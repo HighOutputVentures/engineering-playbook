@@ -1,10 +1,12 @@
 # TASK CARD
 
 ## What is a Task?
-_TODO_
+It is a card, mostly used outside business flow.
 
 ## Naming title guidelines
-_TODO_
+Make it imperative
+
+Write a migration script for handling hashed value for field, `bankAccountNumber`.
 
 ## Writing a description guidelines
-_TODO_
+It should define the purpose and the additional details for this taks.
