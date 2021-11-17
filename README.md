@@ -45,11 +45,9 @@ _TODO_
    1. Pull Requests
    2. Style Guide
    3. Pair Programming
-7. Hiring
-   1. Engineering Interviews
-8. Onboarding
+7. Onboarding
    1. Workstation Setup
-9.  Developer Experience (DevEx)
+8.  Developer Experience (DevEx)
 
 -------
 
