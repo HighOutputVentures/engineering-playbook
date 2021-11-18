@@ -19,7 +19,7 @@ Make it shorter and easy to understand, you can initially name it like this.
 - Notifications
 - Member Management 
 
-However, there are some instances that you want to further narrow down the scope to fit on a release cycle:
+> **NOTE**: However, there are some instances that you want to further narrow down the scope to fit on a release cycle:
 
 ### Examples
 - Bookmark Post
