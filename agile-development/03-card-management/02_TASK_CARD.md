@@ -4,7 +4,7 @@
 It is a card, mostly used outside business flow.
 
 ## Naming title guidelines
-Make the title imperative<sup>[1](https://github.com/HighOutputVentures/engineering-playbook/blob/main/agile-development/03-card-management/02_TASK_CARD.md#terms)</sup>.
+Make the title _imperative_<sup>[1](https://github.com/HighOutputVentures/engineering-playbook/blob/main/agile-development/03-card-management/02_TASK_CARD.md#terms)</sup>.
 
 For example:
 
