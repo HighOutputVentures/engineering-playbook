@@ -10,7 +10,7 @@ A story is a behaviour or feature that a solution needs to implement in order to
 4. It creates momentum.
 
 ## Naming title guidelines
-Make the title _declarative_<sup>[1]</sup>.
+Make the title _declarative_<sup>[1](https://github.com/HighOutputVentures/engineering-playbook/blob/main/agile-development/03-card-management/01_STORY_CARD.md#terms)</sup>.
 
 For example:
 
