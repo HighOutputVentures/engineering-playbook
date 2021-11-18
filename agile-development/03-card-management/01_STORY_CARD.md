@@ -1,6 +1,6 @@
 # STORY CARD
 
-## What is a Story/User Story?
+## What is a Story / User Story?
 A story is a behaviour or feature that a solution needs to implement in order to fulfill the needs of a user.
 
 ## Why should we create a Story?
