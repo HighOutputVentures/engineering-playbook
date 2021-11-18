@@ -11,7 +11,7 @@ We can format the bug card, like these:
 2. `<system feature> should <expected behavior> but doesn't`
 3. `<persona / type of user> <gets result> but should <get different result>`
 
-> NOTE: There are several ways to format title for a bug card. 
+> **NOTE**: There are several ways to format title for a bug card. 
 > 
 > Please see [Naming Bug Cards](https://stratejos.ai/blog/naming-task-bug-user-story-titles/)
 
