@@ -26,9 +26,7 @@ As a Creator, I want to announce my newly created profile to Bitclout, so that t
 ```
 
 ###  Acceptance Criteria
-Gherkin syntax
-
-By using this syntax `GIVEN`, `WHEN` and `THEN`.
+Make use of `Gherkin`'s syntax by using `GIVEN`, `WHEN`, `THEN` and many more.
 
 For example:
 
