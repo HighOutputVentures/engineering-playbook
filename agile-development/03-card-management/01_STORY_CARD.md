@@ -21,7 +21,9 @@ As as `<persona>`, I `<want to>`, `<so that>`.
 
 For example:
 
+```
 As a Creator, I want to announce my newly created profile to Bitclout, so that they are aware I signed up on Jamclout.
+```
 
 ###  Acceptance Criteria
 Gherkin syntax
