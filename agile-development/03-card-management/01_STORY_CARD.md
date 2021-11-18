@@ -4,13 +4,15 @@
 A story is a behaviour or feature that a solution needs to implement in order to fulfill the needs of a user.
 
 ## Why should we create a Story?
-- Stories keep focus on the user
-- Stories enable collaboration
-- Stories drive creative solutions
-- Stories create momentum
+1. It keeps focus on the user.
+2. It enables collaboration.
+3. It drives creative solutions.
+4. It creates momentum.
 
 ## Naming title guidelines
 Make it declarative
+
+For example:
 
 Creator announces profile to Bitclout
 
