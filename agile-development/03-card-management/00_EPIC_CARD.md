@@ -6,7 +6,7 @@ Are large bodies of work that can be broken down into a number of smaller tasks 
 To categorize and organize common pieces for the required work into a shippable pieces.
 
 ## When should I create an Epic?
-When there are initiatives or a features` that can be break into deliverable pieces.
+When there are initiatives or a features that can be break into deliverable pieces.
 
 ## Difference between Epic and the other issue types?
 Other card issue types describe a single piece of work, while epics on the other, are used to describe a group of issue relate to the same, larger body of work.
