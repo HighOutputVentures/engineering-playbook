@@ -24,9 +24,13 @@ _TODO_
    5. QA
 2. Agile Development
    1. Introduction
-   2. Card Management
-   3. Backlog Management
-   4. Retrospectives
+   2. Daily Standup
+   3. Open Collaboration
+   4. Backlog Management
+   5. Card Management
+   6. Definition of Done
+   7. Retrospectives
+   8. Release Notes
 3. Developing
    1. Introduction
    2. Refactoring
