@@ -22,4 +22,8 @@ See more details of [Retrospectives](https://github.com/HighOutputVentures/engin
 ### Release Notes
 See more details of [Release Notes](https://github.com/HighOutputVentures/engineering-playbook/blob/main/agile-development/06-release-notes/README.md)
 
+### Pull System Task Assignment
+
+See more details of [Pull System Task Assignment]().
+
 
