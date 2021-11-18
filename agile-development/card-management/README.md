@@ -1,22 +1,25 @@
 # Card Management
 
 ## Epic
-_TODO_
+See `Epic`.
 
 ## Story
-_TODO_
-
-## Sub-task
-_TODO_
-
-## Issue
-_TODO_
+See `Story`.
 
 ## Task 
-_TODO_
+See `Task`.
 
 ## Bug
-_TODO_
+See `Bug`.
 
 ## Hotfix
-_TODO_
+See `Hotfix`.
+
+## Sub-task
+See `Sub-task`.
+
+## Issue
+See `Issue`.
+
+
+
