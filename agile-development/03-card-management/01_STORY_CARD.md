@@ -10,7 +10,7 @@ A story is a behaviour or feature that a solution needs to implement in order to
 4. It creates momentum.
 
 ## Naming title guidelines
-Make it declarative
+Make the title _declarative_<sup>[1]</sup>.
 
 For example:
 
@@ -35,6 +35,12 @@ GIVEN the request have the status PENDING
 WHEN the admin tries to approve it
 THEN it should return an error
 ```
+
+## Terms
+1. It consists of a subject and a predicate. For example:
+  My patient is having a hard time.
+  The sky is blue.
+  User is frustrated.
 ## Resources
 1. https://www.atlassian.com/agile/project-management/user-stories
 2. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
