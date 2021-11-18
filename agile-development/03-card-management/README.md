@@ -21,5 +21,9 @@ See more details of [Sub-task](https://github.com/HighOutputVentures/engineering
 ## Issue
 See more details of [Issue](https://github.com/HighOutputVentures/engineering-playbook/blob/main/agile-development/03-card-management/06_ISSUE_CARD.md).
 
+## Columns
+
+## Swimlanes
+
 
 
