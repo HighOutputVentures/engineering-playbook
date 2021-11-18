@@ -1,4 +1,4 @@
-# AGILE_DEVELOPMENT
+# AGILE DEVELOPMENT
 
 ## Daily Standup
 _TODO_
