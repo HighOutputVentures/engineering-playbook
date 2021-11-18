@@ -1,24 +1,24 @@
 # AGILE DEVELOPMENT
 
 ## Daily Standup
-_TODO_
+See `Daily Standup`
 
 ## Open Collaboration
-_TODO_
+See `Open Collaboration`
 
 ## Backlog Management
-_TODO_
+See `Backlog Management`
 
 ## Card Management
-_TODO_
+See `Card Management`
 
-## Definition Done
-_TODO_
+## Definition of Done
+See `Defintion of Done`
 
 ## Retrospectives
-_TODO_
+See `Retrospectives`
 
 ## Release Notes
-_TODO_
+See `Release Notes`
 
 
