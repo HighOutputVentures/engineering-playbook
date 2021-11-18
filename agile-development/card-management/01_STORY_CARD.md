@@ -1,8 +1,7 @@
 # STORY CARD
 
 ## What is a Story/User Story?
-_TODO_
-
+A story is a behaviour or feature that a solution needs to implement in order to fulfill the needs of a user.
 
 ## Why should we create a Story?
 - Stories keep focus on the user
@@ -26,3 +25,4 @@ Gherkin syntax
 GIVEN WHEN THEN 
 ## Resources
 1. https://www.atlassian.com/agile/project-management/user-stories
+2. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
