@@ -38,15 +38,13 @@ THEN it should return an error
 
 ## Terms
 
-1. It consists of a subject and a predicate. 
-
-        For example:
-        
-        My patient is having a hard time.
-        
-        The sky is blue.
-        
-        User is frustrated.
+1. It consists of a subject and a predicate, For example.
+    
+    My patient is having a hard time.
+    
+    The sky is blue.
+    
+    User is frustrated.
 
 ## Resources
 1. https://www.atlassian.com/agile/project-management/user-stories

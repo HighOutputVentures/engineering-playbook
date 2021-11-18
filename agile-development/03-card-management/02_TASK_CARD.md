@@ -4,7 +4,7 @@
 It is a card, mostly used outside business flow.
 
 ## Naming title guidelines
-Make it imperative
+Make the title imperative<sup>[1]()</sup>.
 
 For example:
 
@@ -14,6 +14,14 @@ Write a migration script for handling hashed value for field, `bankAccountNumber
 For example:
 
 It should define the purpose and the additional details for this tasks.
+
+## Terms
+1. It expresses direct command, For example:
+    Commit the message.
+
+    Delete the row.
+
+    Please join us for dinner.
 
 ## Resources
 1. https://stratejos.ai/blog/naming-task-bug-user-story-titles/
