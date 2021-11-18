@@ -44,6 +44,6 @@ unlike <competitor, current solution, non-existing solution>
 our solution <does something better -- the why?>
 
 ## Resources
-1. https://www.scaledagileframework.com/epic/
-2. https://www.atlassian.com/agile/tutorials/epics
-3. https://www.atlassian.com/agile/project-management/epics-stories-themes
+1. [Scaled Agile Framework - Epic](https://www.scaledagileframework.com/epic/)
+2. [Atlassian's Agile Tutorial - Epic](https://www.atlassian.com/agile/tutorials/epics)
+3. [Atlassian's Project Management' Epics, Stories and Themes](https://www.atlassian.com/agile/project-management/epics-stories-themes)
