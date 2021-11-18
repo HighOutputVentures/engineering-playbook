@@ -16,21 +16,21 @@ _TODO_
 
 ## TABLE OF CONTENTS
 
-1. Engineering Foundational Checklists
+1. **Engineering Foundational Checklists**
    1. Introduction
    2. FE
    3. BE
    4. DevOps
    5. QA
-2. Agile Development
-   1. Introduction
-   2. Daily Standup
-   3. Open Collaboration
-   4. Backlog Management
-   5. Card Management
-   6. Definition of Done
-   7. Retrospectives
-   8. Release Notes
+2. **Agile Development**
+   1. [Overview](https://github.com/HighOutputVentures/engineering-playbook/blob/main/agile-development)
+   2. [Daily Standup](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/00-daily-standup)
+   3. [Open Collaboration](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/01-open-collaboration)
+   4. [Backlog Management](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/02-backlog-management)
+   5. [Card Management](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/03-card-management)
+   6. [Definition of Done](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/04-definition-of-done)
+   7. [Retrospectives](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/05-retrospectives)
+   8. [Release Notes](https://github.com/HighOutputVentures/engineering-playbook/tree/main/agile-development/06-release-notes)
 3. Developing
    1. Introduction
    2. Refactoring
