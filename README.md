@@ -2,7 +2,7 @@
 
 > **NOTE**: This is a living documentation.
 
-## What is a **Playbook**?
+## What is a "playbook"?
 It contains all the pieces and parts that make up your company's go-to approach for getting things done<sup>[1](https://sterlingwoods.com/blog/business-playbook/)</sup>.
 
 
