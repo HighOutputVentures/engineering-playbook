@@ -27,3 +27,7 @@ See more details of [Issue](https://github.com/HighOutputVentures/engineering-pl
 
 
 
+## References
+- https://www.notion.so/highoutput/Epic-c996f0c845d74fa1904cde7d285aa9de
+- https://www.notion.so/highoutput/User-Story-88cefd0ac2834f6b966eb58f8d10a0da
+- https://www.notion.so/highoutput/Acceptance-Criteria-a552f5f1d88a4813b9bbeef9a8bcc429
