@@ -1,3 +1,0 @@
-# Backlog Management
-
-## Overview
