@@ -1,6 +1,23 @@
 # ENGINEERING PLAYBOOK
 
 This is a living documentation.
+
+1. Systems (SOPs)
+2. References (FAQs)
+3. Templates (Purpose, Practical Steps, Final Checks) 
+4. Playbook Backlog (Experiments)
+
+The Purpose
+
+Practical Steps
+
+Final Checks
+
+- Does it take more than 5 minutes
+- Will I do this more than once
+- Do I dislike doing this
+
+
 ## What is a "playbook"?
 
 _TODO_

@@ -1,6 +1,6 @@
 # CODE REVIEWS
 
-## Pull Requests
+## Pull Request
 
 ## Feedback
 
