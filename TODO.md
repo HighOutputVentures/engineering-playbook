@@ -10,7 +10,7 @@ Philosophy
 
 Product Owner should know what the customer wants.
 
-Product Designer should know what kinds of solution he wants to raise.
+Product Designer should know what kind of solutions he want to raise.
 
 Project Manager is the one who set milestones, strategic roadmaps.
 
@@ -28,7 +28,6 @@ IDEAS
 3. Explain your idea
 4. Place your idea on a card (Miro)
 
-
 ```
 What is it?
 Why build it?
@@ -43,10 +42,21 @@ Desired Outcomes?
 - Types of activities people would use the product for
 
 
-
 1. Think of the core ideas of the product (Done by Product Owner and User)
+   ```md
+   # BIG STORY
+   - Signing up
+   - Change my service
+   - Viewing my band stats
+   - Working with my show calendar
+   - Working with my audience
+   - Viewing Promotions Online
+   ```
 2. Think of the tasks that could complete that idea (Done by Product Designers)
    1. Focus on the breadth of the tasks that should be completed instead of the details of a certain task
+   ```md
+   # Viewing Promotions Online
+   ```
 
 ### Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
