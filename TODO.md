@@ -34,11 +34,19 @@ What is it?
 Why build it?
 What will happen?
 When you do?
+
+Desired Outcomes?
 ```
 
+- List the types of Customers and Users.
+- Types of users to a sentence or two about each
+- Types of activities people would use the product for
+
+
+
 1. Think of the core ideas of the product (Done by Product Owner and User)
-2. Think of the tasks that could complete that idea
-3. 
+2. Think of the tasks that could complete that idea (Done by Product Designers)
+   1. Focus on the breadth of the tasks that should be completed instead of the details of a certain task
 
 ### Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
