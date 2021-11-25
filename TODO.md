@@ -1,4 +1,5 @@
-## User Story Mapping
+
+# User Story Mapping
 > It is a dead simple idea. Talk about the user's journey through your product by building a simple model that tells your user's story as you do.
 >
 >    Jeff Patton 
@@ -9,19 +10,16 @@
 <b>User Story Mapping</b> helps Agile team define what to build and maintain visibility for how it all fits together. They enable user-centered conversations, collaboration, and feature prioritization to align and guide iterative product development.
 </details>
 
-> NOTE: 
-> 
-> **AGILE MANIFESTO**
-> - **Individuals and interactions** over processes and tools
-> - **Working software** over comprehensive documentation
-> - **Customer collaboration** over contract negotation
-> - **Responding to change** over following a paln
-### WHY
-1. It paints a full picture of how a product is used, often lost in the "not seeing the forest for the trees" reality of feature development since most teams focus on specific tasks and not the "big picture" most of the time.
+___
 
-2. It can identify loopholes in functionality or areas to focus on since they can visually highlight gaps in the user experience.
+Motivation on why we need to use this and why is this beneficial for us.
+1. **It puts the individuals working on it first** over what processes we incorporate and tools we should use.
+2. **It helps us distinguish minimum requirements** over long-winded documentation about functionalities and requirements.
+3. **Shortens feedback loop** by reducing chains of information.
+4. **Quicky adapts** due to fast feedback, competitive analysis and product maturity.
+5. **Identifying loopholes** due to not seeing the full picture of how the product is used.
+6. A practice for **categorization, prioritization and refinement**
 
-3. Tool for prioritizing
 ### Benefits
 The following are some of the ways that story mapping helps team improve their processes for building products that the user love.
 
