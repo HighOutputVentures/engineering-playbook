@@ -214,6 +214,11 @@ Anyone can participate in mapping user stories.
 
 3. **Project Manager** is the one who set milestones, strategic roadmaps.
 
+4. **QsA** are the one finding faults by testing the product.
+
+5. **Developer** are the one who completes the user stories.
+
+
 It is encourage to include the members when mapping the story. This will reduce loop holes
 
 ### You can spearate it by tags:
