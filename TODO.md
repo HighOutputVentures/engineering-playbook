@@ -49,9 +49,15 @@ For each story we made, we have a shared view of a customer/user and the work th
 
 ___
 
+## First things First.
+
 ### Define the Right Product Owner
 
 Product Owner should know what he wants, what the customer want at first, expectation he wants, etc.
+- Knowledgeable
+- empowered
+- engaged
+
 ### Build an Empathetic Developer Team
 
 Increase level of empathy for what the customer is trying to accomplish.
@@ -208,6 +214,12 @@ So whether you leave your story map up/out and update it or rebuild it from scra
 2. Don't include any task lower than second-level priority on the backlog
 3. Create a separate list of those lower-priority ideas and requests.
 4. Re-evaluate the level one and two items on your backlog regularly
+
+
+## Current Challenges
+1. Jira have flat backlogs
+2. We might use 2 different tools
+3. Jira does not have color indicator
 
 ## Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
