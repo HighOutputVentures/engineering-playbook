@@ -50,30 +50,36 @@ Increase level of empathy for what the customer is trying to accomplish.
 1. **Frame the problem**
 Build a backbone, core ideas that made the product. Discussed with the PO and PD
 
-Example:
-   1. Authentication
-   2. User Management
-   3. Project Management
+**Example**:
+      1. Authentication
+      2. User Management
+      3. Project Management
 
 
-2. **Understand the product's users**
+1. **Understand the product's users**
+
 It is better to determine different types of users or personas early on
 
 If the product's main users are for the blind people then you should carefully for accessibility.
 
 3. **Map user activities**
+
 Break down the backbone into a series of steps to complete
 
 4. **Map user stories**
+
 Add discrete interactions to complete the above step.
 
 5. **Flow and prioritize**
+
 Repesent colors and divide by swimlanes to indicate the value of that said stories
 
 6. **Identify gaps, dependencies, technical requirements, and alternatives**
+
 Collaborate with other members to enrich and validate the story map
 
 7. **Plan for the prioritize items**
+
 Plan items that are the top priority for development
 
 ### What are some challenges of user story mapping
