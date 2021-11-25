@@ -128,9 +128,9 @@ ___
    `[As a Person]`, `[I want to]`, `[so that]`.
 
       **Example**:
-      
+
             1. Authenticate User
-               1. As an Admin, I want to register an Admin Role, so that I can have admin access
+               1. As an Admin, I want to register an Admin Role, so that I can have admin access.
 
                2. As an Admin, I want to have a traditional login, so that I can have access.
 
