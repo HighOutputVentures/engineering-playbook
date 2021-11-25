@@ -100,6 +100,8 @@ ___
 
    If the product's main users are for the blind people then you should carefully for accessibility.
 
+   > This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other members.
+
    Find out who are the different personas
 
    **Examples**
@@ -113,7 +115,7 @@ ___
 
    Build a _backbone_ or _core ideas_ that make the product. 
    
-   This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other member.
+   > This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other members.
 
    **Example**:
 
@@ -124,6 +126,8 @@ ___
 3. **Map user activities**
 
    Add steps to complete the step above. Make sure to have this format:
+
+   > This can be done by the Product Designer and can be collaborated with other other members.
 
    `[As a Person]`, `[I want to]`, `[so that]`.
 
@@ -157,6 +161,10 @@ ___
 
    This will become a sizable requirement.
 
+   > It is recommended that all members should participate in this. 
+   > 
+   > This will allow us to find possible discrepancies.
+
    **Example**:
 
          1. Authenticate User
@@ -169,31 +177,29 @@ ___
 
 5. **Flow and prioritize**
 
-Make use of colors and divide by swimlanes to indicate the value of that said stories
+   Make use of colors and divide by swimlanes to indicate the value of that said stories
 
 6. **Identify gaps, dependencies, technical requirements, and alternatives**
 
-Collaborate with other members to enrich and validate the story map
+   Collaborate with other members to enrich and validate the story map
 
 7. **Plan for the prioritize items**
 
-Plan items that are the top priority for development
+   Plan items that are the top priority for development
 
-### What are some challenges of user story mapping
+## What are some challenges of user story mapping?
 - No clear customer
 - No clear problem
 - Limited Utility
-- Re-work and redundancy
+- Rework and redundancy
 - Usage of different tools
-  
-### Philosophy
-- Iterative AND Incremental
 
-### TIPS
+
+## TIPS
 - Refrain from using `Themes`, `Epic`, `Functions`, and `Features`.
-- Identify the Opening Game (Add backbones)
-- Identify the Mid Game (Add steps to complete the backbone)
-- Identify the End Game (Research, game changer)
+- Identify the _Opening Game_ (Add backbones)
+- Identify the _Mid Game_ (Add steps to complete the backbone)
+- Identify the _End Game_ (Research, game changer)
 
 > NOTE: Story maps are for breaking down big stories as you tell them.
 
