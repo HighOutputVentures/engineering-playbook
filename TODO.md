@@ -13,7 +13,7 @@
 ___
 
 ## Current Challenges
-1. We have a meeting called Backlog grooming and it takes
+1. We have a meeting called Backlog grooming and it takes time.
 
 2. We just make story cards from breaking down epic cards without knowing why do we need it.
 
@@ -144,7 +144,7 @@ Add steps to complete the step above. Make sure to have this format:
 
          3. Recruit Candidate
             1. As a Recruiter, I can search for candidates, so that I can have a pool of candidate to a vacant job.
-            
+
             2. As a Recruiter, I can contact a candidate, so that I can share details about the company and the vacant job.
             
 
