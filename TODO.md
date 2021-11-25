@@ -163,7 +163,7 @@ ___
 
    > It is recommended that all members should participate in this. 
    > 
-   > This will allow us to find possible discrepancies.
+   > This will allow us to highly find potential discrepancies.
 
    **Example**:
 
