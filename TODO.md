@@ -37,7 +37,7 @@ Due to collaboration we can know what risk is going to take, redudancy to elimin
 
 - **Builds team consensus**
 
-For each story we made we can have an **Service Level Agreement (SLA)**, **Service Level Indicators (SLI)**, **Service Level Objectives(SLO)**
+For each story we made we can have an agreement on several things like, what to prioritize, correct steps/flow, and etc.
 
 ### Define the Right Product Owner
 
@@ -153,7 +153,6 @@ Desired Outcomes?
 1. Story mapping have an end goal.
 2. Story mapping eliminates loopholes.
 3. Enables seamless collaboration.
-
 
 ## Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
