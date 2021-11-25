@@ -70,8 +70,8 @@ Product Owner should know what he wants
 
 They have these 3 basic traits:
 - Knowledgeable
-- empowered
-- engaged
+- Empowered
+- Engaged
 
 ### Build an Empathetic Developer Team
 So that they can build a right solution for their product. They can pitch simple but effective idea during mapping of user stories.
