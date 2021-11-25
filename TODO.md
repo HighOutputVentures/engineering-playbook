@@ -41,7 +41,7 @@ Due to having a well-sized requirements you can add value and iterate faster.
 
 - **Exposes risks and dependencies**
 
-Due to collaboration we can know what risk is going to take, redudancy to eliminate, etc.
+Due to collaboration we can know what risk is going to take, redundancy to eliminate, etc.
 
 - **Builds team consensus**
 
