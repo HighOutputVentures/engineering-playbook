@@ -85,6 +85,7 @@ Forget about the `THEMES`, `EPIC`, `STORY CARDS`, and `FEATURES`.
 
 
 Don't introduce them to the Product Owner. Just tell them that we are just trying to model the users' perspective.
+
 ___
 
 
@@ -93,44 +94,70 @@ ___
 ### How does user story mapping work
 1. **Find out the different personas/type of users**
 
-It is better to determine different types of users or personas early on
+   It is better to determine different types of users or personas early on
 
-If the product's main users are for the blind people then you should carefully for accessibility.
+   If the product's main users are for the blind people then you should carefully for accessibility.
 
-Find out who are the different personas
+   Find out who are the different personas
 
-**Examples**
+   **Examples**
 
-      1. Admin
-      2. Member
-      3. Organizer
-      4. Interviewer
-      5. Hiring Manager
-      6. Job Seeker
+         1. Admin
+         2. Member
+         3. Recruiter
+         4. Job Seeker
 
 2. **Frame the problem**
 
-Build a _backbone_ or _core ideas_ that made the product. This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other member.
+   Build a _backbone_ or _core ideas_ that make the product. 
+   
+   This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other member.
 
-**Example**:
+   **Example**:
 
-      1. Authenticate User
-      2. Manage User
-      3. Manage Project
-      4. Recruit Candidate
-      5. Manage Job Vacancy
+         1. Authenticate User
+         2. Manage User
+         3. Job Candidate
 
 3. **Map user activities**
 
-Break down the backbone into a series of steps to complete
+Add steps to complete the step above. Make sure to have this format:
 
-4. **Map user stories**
+`[As a Person]`, `[I want to]`, `[so that]`.
 
-Add discrete interactions to complete the above step.
+   **Example**:
+         1. Authenticate User
+            1. As an Admin, I want to register an Admin Role, so that I can have admin access
 
-5. **Flow and prioritize**
+            2. As an Admin, I want to have a traditional login, so that I can have access.
 
-Repesent colors and divide by swimlanes to indicate the value of that said stories
+            3. As a Member, I want to receive an invitation link, so that I can register with my email.
+
+            4. As a Member, I want to have a passwordless login, so that I only have less concern.
+
+         2. Manage User
+            1. As an Admin, I can invite a user, so that I can have a list of users under a project.
+
+            2. As an Admin, I can see the list of users, so that I can manage them well.
+
+            3. As an Admin, I can see more details of a user, so that I can revoke access or edit the profile of selected user.
+
+         3. Recruit Candidate
+            1. As a Recruiter, I can search for candidates, so that I can have a pool of candidate to a vacant job.
+            
+            2. As a Recruiter, I can contact a candidate, so that I can share details about the company and the vacant job.
+            
+
+1. **Map user stories**
+
+We can add more granularity for discrete interactions to complete
+
+1. As a Recruiter, I can see the Job Seekers who applied, I can sort or mark them.
+            2. As a Recruiter, I can bookmark a Job Seeker, so that I can categorize them.
+            3. 
+2. **Flow and prioritize**
+
+Make use of colors and divide by swimlanes to indicate the value of that said stories
 
 6. **Identify gaps, dependencies, technical requirements, and alternatives**
 
