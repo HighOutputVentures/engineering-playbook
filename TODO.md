@@ -1,14 +1,21 @@
-## Agile Manifesto
-- **Individuals and interactions** over processes and tools
-- **Working software** over comprehensive documentation
-- **Customer collaboration** over contract negotation
-- **Responding to change** over following a paln
-
 ## User Story Mapping
 > It is a dead simple idea. Talk about the user's journey through your product by building a simple model that tells your user's story as you do.
 >
 >    Jeff Patton 
 
+<details>
+<summary><b>Summary</b></summary>
+
+<b>User Story Mapping</b> helps Agile team define what to build and maintain visibility for how it all fits together. They enable user-centered conversations, collaboration, and feature prioritization to align and guide iterative product development.
+</details>
+
+> NOTE: 
+> 
+> **AGILE MANIFESTO**
+> - **Individuals and interactions** over processes and tools
+> - **Working software** over comprehensive documentation
+> - **Customer collaboration** over contract negotation
+> - **Responding to change** over following a paln
 ### WHY
 1. It paints a full picture of how a product is used, often lost in the "not seeing the forest for the trees" reality of feature development since most teams focus on specific tasks and not the "big picture" most of the time.
 
@@ -172,6 +179,11 @@ Story mapping helps you tame the backlog by giving each item some context and fo
 4. Branching out with a new product extension?
 A story map will illustrate what you already have and the missing pieces you’ll need to make the new functionality work just as well as your current offering.
 
+
+**FIRST STEP**
+Regardless of whether your product is still theoritical or has been kicking around for decades, story mapping starts with personas -- you must know who will be using your product and what they're trying to accomplish.
+
+
 ## STORY MAPPING MYTHS
 1. It has an end goal.
 2. It eliminates loopholes.
@@ -190,6 +202,13 @@ So whether you leave your story map up/out and update it or rebuild it from scra
 
 ### It enables seamless collaboration
 
+
+## User Story Mapping as Backlog Refinement
+1. Arrange the top items on your product backlog to represent the prioritized items
+2. Don't include any task lower than second-level priority on the backlog
+3. Create a separate list of those lower-priority ideas and requests.
+4. Re-evaluate the level one and two items on your backlog regularly
+
 ## Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
 2. https://www.productplan.com/glossary/story-mapping/
@@ -200,3 +219,5 @@ So whether you leave your story map up/out and update it or rebuild it from scra
 8. https://medium.com/usabilitygeek/how-to-cope-with-multiple-user-flows-in-a-user-story-mapping-4a69c61d39e0
 9. https://www.notion.so/highoutput/Authefy-82099844553b4168bbe8928701c53ef9
 10. https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story-mapping/
+11. https://www.productplan.com/learn/prioritize-product-backlog/
+12. https://go.productplan.com/product-strategy-playbook/
