@@ -21,7 +21,7 @@ ___
 
 4. The team does not have a shared understanding of the product.
 
-### Motivation on why we need to use this and why is this beneficial for us.
+## Motivation on why we need to use this and why is this beneficial for us.
 1. **It puts the individuals working on it first** over what processes we incorporate and tools we should use.
 
 2. **It helps us distinguish minimum requirements** over long-winded documentation about functionalities and requirements.
@@ -34,30 +34,30 @@ ___
 
 6. A practice for **categorization, prioritization and refinement**.
 
-### Benefits
+## Benefits
 The following are some of the ways that story mapping helps team improve their processes for building products that the user love.
 
-- **Focuses on user value**
+### **Focuses on user value**
 
 We are envisioning the perspective of the user. This way we can focus what efforts for the user to the best outcomes. An outside-in approach.
 
-- **Prioritizes the right work**
+### **Prioritizes the right work**
 
 Building a holistic visualization of all the work necessary to deliver product experience can help teams decide what is most important.
 
-- **Drives clear, well-sized requirements**
+### **Drives clear, well-sized requirements**
 
 We struggle on writing strong user stories and requirements. We can make bigger stories and break those stories into a smaller ones. With the samller workable items we can illustrate how these items fit together.
 
-- **Delivers new value early and often**
+### **Delivers new value early and often**
 
 We can group smaller stories into iterations and get feedback early on. This way we can know the value and task we should prioritize to have an impactful product.
 
-- **Exposes risks and dependencies**
+### **Exposes risks and dependencies**
 
 Due to having a holistic view of the product we have crutch for visualization about the potential blocks, risks and dependencies that should be mitigateed in order to have deliver a product.
 
-- **Builds team consensus**
+### **Builds team consensus**
 
 For each story we made, we have a shared view of a customer/user and the work that is required or improve. This kind of practice or exercise lead to shared understanding on what to build, when and why.
 
