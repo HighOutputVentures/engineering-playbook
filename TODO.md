@@ -32,7 +32,7 @@ ___
 
 5. **Identifying loopholes** due to not seeing the full picture of how the product is used.
 
-6. A practice for **categorization, prioritization and refinement**
+6. A practice for **categorization, prioritization and refinement**.
 
 ### Benefits
 The following are some of the ways that story mapping helps team improve their processes for building products that the user love.
