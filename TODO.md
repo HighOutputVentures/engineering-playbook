@@ -151,14 +151,21 @@ ___
                2. As a Recruiter, I can contact a candidate, so that I can share details about the company and the vacant job.
             
 
-1. **Map user stories**
+4. **Map user stories**
 
-We can add more granularity for discrete interactions to complete
+   We can add more granularity for discrete interactions of a step. 
 
-1. As a Recruiter, I can see the Job Seekers who applied, I can sort or mark them.
-            2. As a Recruiter, I can bookmark a Job Seeker, so that I can categorize them.
-            3. 
-2. **Flow and prioritize**
+   This will become a sizable requirement.
+
+   1. Authenticate User
+
+      1. As an Admin, I want to register an Admin Role, so that I can have admin access.
+
+         1. As an Admin, I want to enter valid username, so that I can have a unique username.
+         
+         2. As an Admin, I want to enter a valid password, so that I can have a strong passsword strength.
+
+5. **Flow and prioritize**
 
 Make use of colors and divide by swimlanes to indicate the value of that said stories
 
