@@ -12,12 +12,26 @@
 
 ___
 
-Motivation on why we need to use this and why is this beneficial for us.
+## Current Challenges
+1. We have a meeting called Backlog grooming and it takes
+
+2. We just make story cards from breaking down epic cards without knowing why do we need it.
+
+3. We are quite reactive to UI/UX design to know the user flow.
+
+4. The team does not have a shared understanding of the product.
+
+### Motivation on why we need to use this and why is this beneficial for us.
 1. **It puts the individuals working on it first** over what processes we incorporate and tools we should use.
+
 2. **It helps us distinguish minimum requirements** over long-winded documentation about functionalities and requirements.
+
 3. **Shortens feedback loop** by reducing chains of information.
+
 4. **Quicky adapts** due to fast feedback, competitive analysis and product maturity.
+
 5. **Identifying loopholes** due to not seeing the full picture of how the product is used.
+
 6. A practice for **categorization, prioritization and refinement**
 
 ### Benefits
@@ -52,31 +66,59 @@ ___
 ## First things First.
 
 ### Define the Right Product Owner
+Product Owner should know what he wants
 
-Product Owner should know what he wants, what the customer want at first, expectation he wants, etc.
+They have these 3 basic traits:
 - Knowledgeable
 - empowered
 - engaged
 
 ### Build an Empathetic Developer Team
+So that they can build a right solution for their product. They can pitch simple but effective idea during mapping of user stories.
 
-Increase level of empathy for what the customer is trying to accomplish.
+
+> **NOTE**: Having these an Empathetic Team and a Directly Responsible Invdividual-Type of PO is a strong combination to meet small deadlines.
+
+### Forget the terminilogies used in JIRA
+
+Forget about the `THEMES`, `EPIC`, `STORY CARDS`, and `FEATURES`.
+
+
+Don't introduce them to the Product Owner. Just tell them that we are just trying to model the users' perspective.
+___
+
+
+## How does USER STORY MAPPING work?
 
 ### How does user story mapping work
-1. **Frame the problem**
-Build a backbone, core ideas that made the product. Discussed with the PO and PD
-
-**Example**:
-      1. Authentication
-      2. User Management
-      3. Project Management
-
-
-1. **Understand the product's users**
+1. **Find out the different personas/type of users**
 
 It is better to determine different types of users or personas early on
 
 If the product's main users are for the blind people then you should carefully for accessibility.
+
+Find out who are the different personas
+
+**Examples**
+
+      1. Admin
+      2. Member
+      3. Organizer
+      4. Interviewer
+      5. Hiring Manager
+      6. Job Seeker
+
+2. **Frame the problem**
+
+Build a _backbone_ or _core ideas_ that made the product. This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other member.
+
+**Example**:
+
+      1. Authenticate User
+      2. Manage User
+      3. Manage Project
+      4. Recruit Candidate
+      5. Manage Job Vacancy
 
 3. **Map user activities**
 
@@ -187,7 +229,7 @@ A story map will illustrate what you already have and the missing pieces you’l
 
 
 **FIRST STEP**
-Regardless of whether your product is still theoritical or has been kicking around for decades, story mapping starts with personas -- you must know who will be using your product and what they're trying to accomplish.
+Regardless of whether your product is still theoretical or has been kicking around for decades, story mapping starts with personas -- you must know who will be using your product and what they're trying to accomplish.
 
 
 ## STORY MAPPING MYTHS
@@ -216,7 +258,7 @@ So whether you leave your story map up/out and update it or rebuild it from scra
 4. Re-evaluate the level one and two items on your backlog regularly
 
 
-## Current Challenges
+## Challenges if we incoroporate this in our workflow
 1. Jira have flat backlogs
 2. We might use 2 different tools
 3. Jira does not have color indicator
