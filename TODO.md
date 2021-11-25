@@ -103,11 +103,13 @@ Plan items that are the top priority for development
 
 ## WHO PARTICIPATES
 
-Product Owner should know what the customer wants.
+Anyone can participate in mapping user stories.
 
-Product Designer should know what kind of solutions he want to raise.
+1. **Product Owner** should know what the customer wants.
 
-Project Manager is the one who set milestones, strategic roadmaps.
+2. **Product Designer** should know what kind of solutions he want to raise.
+
+3. **Project Manager** is the one who set milestones, strategic roadmaps.
 
 It is encourage to include the members when mapping the story. This will reduce loop holes
 
