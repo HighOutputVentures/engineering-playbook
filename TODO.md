@@ -74,7 +74,10 @@ They have these 3 basic traits:
 - Engaged
 
 ### Build an Empathetic Developer Team
-So that they can build a right solution for their product. They can pitch simple but effective idea during mapping of user stories.
+
+So that they can build a right solution for their product. 
+
+They can also pitch simple but effective idea during the mapping of user stories.
 
 
 > **NOTE**: Having these an Empathetic Team and a Directly Responsible Invdividual-Type of PO is a strong combination to meet small deadlines.
@@ -83,8 +86,7 @@ So that they can build a right solution for their product. They can pitch simple
 
 Forget about the `THEMES`, `EPIC`, `STORY CARDS`, and `FEATURES`.
 
-
-Don't introduce them to the Product Owner. Just tell them that we are just trying to model the users' perspective.
+Don't introduce these to the Product Owner. Just tell them that we are just trying to model the users' perspective.
 
 ___
 
@@ -121,31 +123,31 @@ ___
 
 3. **Map user activities**
 
-Add steps to complete the step above. Make sure to have this format:
+   Add steps to complete the step above. Make sure to have this format:
 
-`[As a Person]`, `[I want to]`, `[so that]`.
+   `[As a Person]`, `[I want to]`, `[so that]`.
 
-   **Example**:
-         1. Authenticate User
-            1. As an Admin, I want to register an Admin Role, so that I can have admin access
+      **Example**:
+            1. Authenticate User
+               1. As an Admin, I want to register an Admin Role, so that I can have admin access
 
-            2. As an Admin, I want to have a traditional login, so that I can have access.
+               2. As an Admin, I want to have a traditional login, so that I can have access.
 
-            3. As a Member, I want to receive an invitation link, so that I can register with my email.
+               3. As a Member, I want to receive an invitation link, so that I can register with my email.
 
-            4. As a Member, I want to have a passwordless login, so that I only have less concern.
+               4. As a Member, I want to have a passwordless login, so that I only have less concern.
 
-         2. Manage User
-            1. As an Admin, I can invite a user, so that I can have a list of users under a project.
+            2. Manage User
+               1. As an Admin, I can invite a user, so that I can have a list of users under a project.
 
-            2. As an Admin, I can see the list of users, so that I can manage them well.
+               2. As an Admin, I can see the list of users, so that I can manage them well.
 
-            3. As an Admin, I can see more details of a user, so that I can revoke access or edit the profile of selected user.
+               3. As an Admin, I can see more details of a user, so that I can revoke access or edit the profile of selected user.
 
-         3. Recruit Candidate
-            1. As a Recruiter, I can search for candidates, so that I can have a pool of candidate to a vacant job.
+            3. Recruit Candidate
+               1. As a Recruiter, I can search for candidates, so that I can have a pool of candidate to a vacant job.
 
-            2. As a Recruiter, I can contact a candidate, so that I can share details about the company and the vacant job.
+               2. As a Recruiter, I can contact a candidate, so that I can share details about the company and the vacant job.
             
 
 1. **Map user stories**
