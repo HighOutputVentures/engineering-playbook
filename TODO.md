@@ -5,6 +5,9 @@
 - **Responding to change** over following a paln
 
 ## User Story Mapping
+> It is a dead simple idea. Talk about the user's journey through your product by building a simple model that tells your user's story as you do.
+>
+>    Jeff Patton 
 
 ### WHY
 1. It paints a full picture of how a product is used, often lost in the "not seeing the forest for the trees" reality of feature development since most teams focus on specific tasks and not the "big picture" most of the time.
@@ -156,11 +159,36 @@ Desired Outcomes?
    # Viewing Promotions Online
    ```
 
+## WHEN
+1. Working on an MVP?
+It is a great way to identify minimum requirements and functionality you need to test your concept.
+
+2. Trying to Figure out how to improve on version 1.0?
+A story map can visually display all of the potential enhancements you could add and help your team have quality conversations about what will most impact your users.
+
+3. Managing your backlog a growing session?
+Story mapping helps you tame the backlog by giving each item some context and forcing prioritization and grouping with a big-picture view; plus, it can highlight gaps you might have never noticed otherwise.
+
+4. Branching out with a new product extension?
+A story map will illustrate what you already have and the missing pieces you’ll need to make the new functionality work just as well as your current offering.
 
 ## STORY MAPPING MYTHS
-1. Story mapping have an end goal.
-2. Story mapping eliminates loopholes.
-3. Enables seamless collaboration.
+1. It has an end goal.
+2. It eliminates loopholes.
+3. It enables seamless collaboration.
+
+### It has an end goal
+Mapping stories are continuous. It will never be "done".
+
+As we complete the steps, new ones get prioritized and additional steps are getting added.
+
+Meanwhile, user feedback and competitve analysis uncover new requirements.
+
+So whether you leave your story map up/out and update it or rebuild it from scratch periodically, the "backbone" and "key steps" remain part of the process.
+
+### It eliminates loopholes
+
+### It enables seamless collaboration
 
 ## Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
@@ -171,3 +199,4 @@ Desired Outcomes?
 6. https://storiesonboard.com/
 8. https://medium.com/usabilitygeek/how-to-cope-with-multiple-user-flows-in-a-user-story-mapping-4a69c61d39e0
 9. https://www.notion.so/highoutput/Authefy-82099844553b4168bbe8928701c53ef9
+10. https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story-mapping/
