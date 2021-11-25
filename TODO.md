@@ -6,6 +6,12 @@
 
 ## User Story Mapping
 
+### WHY
+1. It paints a full picture of how a product is used, often lost in the "not seeing the forest for the trees" reality of feature development since most teams focus on specific tasks and not the "big picture" most of the time.
+
+2. It can identify loopholes in functionality or areas to focus on since they can visually highlight gaps in the user experience.
+
+3. Tool for prioritizing
 ### Benefits
 The following are some of the ways that story mapping helps team improve their processes for building products that the user love.
 
@@ -31,7 +37,7 @@ Due to collaboration we can know what risk is going to take, redudancy to elimin
 
 - **Builds team consensus**
 
-For each story we made we can have an SLA, SLO, SLI
+For each story we made we can have an **Service Level Agreement (SLA)**, **Service Level Indicators (SLI)**, **Service Level Objectives(SLO)**
 
 ### Define the Right Product Owner
 
@@ -125,7 +131,7 @@ Desired Outcomes?
 - Types of activities people would use the product for
 
 
-1. Think of the core ideas of the product (Done by Product Owner and User)
+1. Think of the core ideas of the product (Done by Product Owner and Product Designer)
    ```md
    # BIG STORY
    - Signing up
@@ -142,6 +148,13 @@ Desired Outcomes?
    # Viewing Promotions Online
    ```
 
+
+## STORY MAPPING MYTHS
+1. Story mapping have an end goal.
+2. Story mapping eliminates loopholes.
+3. Enables seamless collaboration.
+
+
 ## Resources
 1. https://www.nngroup.com/articles/user-story-mapping/
 2. https://www.productplan.com/glossary/story-mapping/
@@ -151,10 +164,3 @@ Desired Outcomes?
 6. https://storiesonboard.com/
 8. https://medium.com/usabilitygeek/how-to-cope-with-multiple-user-flows-in-a-user-story-mapping-4a69c61d39e0
 9. https://www.notion.so/highoutput/Authefy-82099844553b4168bbe8928701c53ef9
-
-# RAD and Agile
-
-# DevOps
-
-## Resources
-1. https://www.atlassian.com/devops/what-is-devops/devops-engineer
