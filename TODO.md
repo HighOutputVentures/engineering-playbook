@@ -25,27 +25,29 @@ The following are some of the ways that story mapping helps team improve their p
 
 - **Focuses on user value**
 
-We know which interactions we should release
+We are envisioning the perspective of the user. This way we can focus what efforts for the user to the best outcomes. An outside-in approach.
 
 - **Prioritizes the right work**
 
-Prioritize high value targets
+Building a holistic visualization of all the work necessary to deliver product experience can help teams decide what is most important.
 
 - **Drives clear, well-sized requirements**
 
-We can define requirements that are well placed
+We struggle on writing strong user stories and requirements. We can make bigger stories and break those stories into a smaller ones. With the samller workable items we can illustrate how these items fit together.
 
 - **Delivers new value early and often**
 
-Due to having a well-sized requirements you can add value and iterate faster.
+We can group smaller stories into iterations and get feedback early on. This way we can know the value and task we should prioritize to have an impactful product.
 
 - **Exposes risks and dependencies**
 
-Due to collaboration we can know what risk is going to take, redundancy to eliminate, etc.
+Due to having a holistic view of the product we have crutch for visualization about the potential blocks, risks and dependencies that should be mitigateed in order to have deliver a product.
 
 - **Builds team consensus**
 
-For each story we made we can have an agreement on several things like, what to prioritize, correct steps/flow, and etc.
+For each story we made, we have a shared view of a customer/user and the work that is required or improve. This kind of practice or exercise lead to shared understanding on what to build, when and why.
+
+___
 
 ### Define the Right Product Owner
 
