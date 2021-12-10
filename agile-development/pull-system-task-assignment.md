@@ -21,10 +21,10 @@ It is to build products based on actual demand and not on forecasts.
 
 ### Checklist
 
-* [ ] \- Add ruleset for the project's pull system. For example, don't pull any cards if the assigned card is not `Done` yet.
-* [ ] \- Limit work in progress or add limit to necessary columns in board
+* [ ] \- Add a ruleset for the project's pull system. For example, don't pull any cards if the assigned card is not `Done` yet.
+* [ ] \- Limit work in progress or add a limit to necessary columns inboard
 * [ ] \- Add indicators where the card is ready for pulling. For example, cards under `To Do` are refined and ready for development.
-* [ ] \- Apply regular retrospective, to identify existing wastes and achieve ideal team workflow.
+* [ ] \- Apply regular retrospective, to identify existing wastes and achieve an ideal team workflow.
 * [ ] \- Add `Swimlanes` and `Components` to categorize responsibilities when pulling a task.
 
 > **⚠️ TAKE NOTE:**
