@@ -10,10 +10,20 @@
   * This allows the developer to use built-in dark/light color handling
     * In this example, `Background` color name will display appropriate color depending on user’s UI settings.
     * `Background` will display `Light Gray` in light mode, and `Dark Gray` in dark mode
-  * Disregard this if color is identical in both light and dark modes
+
+![](../.gitbook/assets/mobile-ux-background-color.png)
+
+* Disregard this if color is identical in both light and dark modes
 * Use `Color` components in `everything`
-  * From this
-  * To this, to enable flexible adjustments to colors later on.
+
+From this
+
+![](../.gitbook/assets/mobile-ux-background-disregard-color.png)
+
+To this, to enable flexible adjustments to colors later on.
+
+![](../.gitbook/assets/mobile-ux-enable-color.png)
+
 *   It's also recommended to use `Semantics Names` rather than `Color Names` as colors may change later on, and dark mode often uses contrasting colors. (e.g. `Background` is white on light mode, then black in dark mode)
 
     | SEMANTIC (Recommended) | COLOR (Discouraged) |
@@ -42,10 +52,17 @@
 * Create a Figma page with `ALL` the text variations (size, weight, color, etc.)
   * This allows the developer to setup text variations all at once
 * Use `Text` components in everything
-  * From this
-  * To this
-  * This prevents inconsistencies with the design components
-  * And enables flexibility for adjustments on both design and developer side
+
+From this
+
+![](../.gitbook/assets/mobile-ux-base-typography.png)
+
+To this
+
+![](../.gitbook/assets/mobile-ux-tranformed-typography.png)
+
+* This prevents inconsistencies with the design components
+* And enables flexibility for adjustments on both design and developer side
 * Line Height
   * In iOS, there is no way to set this, so our workaround will be
     * `Line Height` equals `Font Size`
