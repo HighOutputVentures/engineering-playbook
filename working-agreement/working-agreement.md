@@ -50,7 +50,7 @@ To help team members to ensure that the user story they wrote contains all the n
 
 ### When should a Definition of Ready be updated
 
-Update the `Definition of Ready` anytime when the team observes that there is the missing piece of information in the user stories that repeatedly impacts the planning.
+Update the `Definition of Ready` anytime when the team observes that there is a missing piece of information in the user stories that repeatedly impacts the planning.
 
 ### What should be avoided
 
@@ -62,7 +62,7 @@ The `Definition of Ready` the checklist covers items that apply in a general. **
 
 Provides a list of example checklists to verify that the user story or release is a success.
 
-### Goals
+### 🥅 Goals
 
 To help clarify the expectations of all team members and judge if a story is complete or a release has been confirmed as a success.
 
@@ -85,4 +85,4 @@ To close a user story, a milestone, or set for a release it is important to veri
 * [ ] \- Product backlog is updated
 * [ ] \- E2E tests pass
 * [ ] \- All bugs are fixed
-* [ ] \- Release is marked as ready for production deployment by product owner
+* [ ] \- Release is marked as ready for production deployment by the product owner

@@ -12,7 +12,7 @@ Teams pull work as they finish what they started while keeping their focus on th
 
 It is to build products based on actual demand and not on forecasts.
 
-### Goals
+### 🥅 Goals
 
 1. Reduce waste of resources
 2. Scaling the optimal capacity of the team

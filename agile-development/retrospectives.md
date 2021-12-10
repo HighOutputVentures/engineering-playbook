@@ -4,7 +4,7 @@
 
 Conducts agile retrospective for each iteration and project milestone.
 
-## Goals
+## 🥅 Goals
 
 1. Continually learn from our engagement, improving our ability to deliver to our customers.
 2. Involve everyone in the learning and improvement.

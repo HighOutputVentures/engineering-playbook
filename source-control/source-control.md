@@ -2,7 +2,7 @@
 
 ## Overview
 
-## Goals
+## 🥅 Goals
 
 * Following industry best practice to work
 * Improve code quality by enforcing reviews before

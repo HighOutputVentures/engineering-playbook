@@ -4,7 +4,7 @@
 
 Reviewing of PRs
 
-### Goals
+### 🥅 Goals
 
 * Improve code quality
 * Grow by learning

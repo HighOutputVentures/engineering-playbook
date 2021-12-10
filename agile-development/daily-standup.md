@@ -4,7 +4,7 @@
 
 The stand-up is a time-boxed ceremony that is held each day of the sprint. In this ceremony, each contributor in the Development Team will answer three simple project questions and an optional social question. This will repeat until each contributor has answered the following questions.
 
-### GOALS
+### 🥅 Goals
 
 1. Bring awareness of the progress done towards the sprint goal, and the sprint backlog.
 2. Surface any impediments to one or more team members' contributions.
