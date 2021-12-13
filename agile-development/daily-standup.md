@@ -14,7 +14,7 @@ The stand-up is a time-boxed ceremony that is held each day of the sprint. In th
 
 The entire team should attend the stand-up. Anyone that worked on a task towards the sprint work should answer the three questions. It would be up to the team to decide if they would like updates from members that are not directly working against sprint task work (i.e. Product Owners and Project Manager).
 
-* Process Lead/Agile Coach/Delivery Manager (Required)
+* Process Manager/Deliver Manager (Required)
 * Product Owner (Optional)
 * Project Manager (Required)
 * Team Lead + Contributors (Required)
