@@ -9,7 +9,7 @@
 
 Although there are several ways to groom and refine the backlogs, we must still pick a way where we can refine more and collaborate at the same time.
 
-### 🎯 Goals
+### 🥅 Goals
 
 The team review the items on the backlog to ensure that the backlog that they are prioritized by the user's demands. This activity occurs on a regular basis and maybe an officially scheduled meeting or an ongoing activity.
 

@@ -4,7 +4,7 @@
 
 Reviewing of PRs
 
-### Goals
+### 🥅 Goals
 
 * Improve code quality
 * Grow by learning
@@ -12,7 +12,7 @@ Reviewing of PRs
 
 ## Pull Request
 
-Changes should go througl Pull Request (PR) for code review.
+Changes should go through Pull Request (PR) for code review.
 
 #### Templates
 
@@ -59,14 +59,14 @@ Add description
 
 ### Inclusion for reviewers
 
-* Adding someone less familiar with the project or the language can aid in verifying the changes are understandable, easy to read, and increases the expertise within the team.
+* Adding someone less familiar with the project or the language can aid in verifying the changes are understandable, easy to read, and increase the expertise within the team.
 * It is important to include reviewers from both organizations for knowledge transfer.
 
-### Open to receive feedback
+### Open to receiving feedback
 
 * Resolve a comment, if the requested change has been made.
 * Mark the comment as "won't fix", if you are not going to make the requested changes and provide a clear reasoning
-  * If the requested change is within scope of the task, "I'll do it later" is not an acceptable reason!
+  * If the requested change is within the scope of the task, "I'll do it later" is not an acceptable reason!
   * If the requested change is out of scope, create a new work item (task or bug) for it.
 * If you don't understand a comment, ask questions in the review itself as opposed to a private chat
 * If a thread gets bloated without a conclusion, have a meeting with the reviewer (call them!)
@@ -79,7 +79,7 @@ If the reviewers have not responded in a reasonable time (a day or two), ping th
 
 * The correctness of the business logic embodied in the code.
 * The correctness of any new or changed tests.
-* The readability and maintenance of the overall design decisions reflected in the code.
+* The readability and maintenance of the overall design decisions are reflected in the code.
 * The checklist of common errors that the team maintains.
 
 ### General Guidance
@@ -88,7 +88,7 @@ If the reviewers have not responded in a reasonable time (a day or two), ping th
 
 * Read every line changed.
 * Read the code in some logical sequence to aid understanding.
-* If you don't fully understand a change in a file because you don't have context, click to view the whole file and read through the surrounding code or checkout the changes and view then in text editor or IDE.
+* If you don't fully understand a change in a file because you don't have context, click to view the whole file and read through the surrounding code or check out the changes and view them in a text editor or IDE.
 * Ask the author to clarify.
 
 #### Be considerate
@@ -115,7 +115,7 @@ If the reviewers have not responded in a reasonable time (a day or two), ping th
 
 * Does the PR description make sense?
 * Do all the changes logically fit in this PR, or are there unrelated changes?
-* If necessary, are the changes made reflected in updates to the README or other docs? Especially if the changes affect how the build the user code.
+* If necessary, are the changes made reflected in updates to the README or other docs? Especially if the changes affect how they build the user code.
 
 #### User Facing Changes
 
@@ -132,7 +132,7 @@ If the reviewers have not responded in a reasonable time (a day or two), ping th
 #### Complexity
 
 * Are functions too complex?
-* Is the single responsibility principle followed? Functions or class should do one 'thing'.
+* Is the single responsibility principle followed? Functions or classes should do one 'thing'.
 * Should a function be broken into multiple functions?
 * If a function/method has greater than 3 arguments, it is potentially overly complex.
 * Does the code add functionality that isn't needed?
@@ -140,7 +140,7 @@ If the reviewers have not responded in a reasonable time (a day or two), ping th
 
 #### Naming/readability
 
-* Did the developer pick good names for functions, variables, and etc.?
+* Did the developer pick good names for functions, variables, etc.?
 
 #### Error Handling
 
@@ -150,31 +150,30 @@ If the reviewers have not responded in a reasonable time (a day or two), ping th
 
 * possible cause of race conditions.
 * could the code be optimized?
-* does the functionality fit in the bigger picture? Can it have negative effects to the overall system?
+* does the functionality fit in the bigger picture? Can it have negative effects on the overall system?
 * Security flaws
-* does the variable name reveal any customer specific information?
+* Does the variable name reveal any customer-specific information?
 * Are we logging the customer's sensitive information?
 
 #### Style
 
 * Are there extraneous comments? If the code isn't clear enough to explain itself, then the code should be made simpler. Comments may be there to explain why some code exists.
-* Does the code adhere to the style guide/conventions that have agreed upon? We use automated styling like, `Pretter`.
-*
+* Does the code adhere to the style guide/conventions that have been agreed upon? We use automated styling like, `Pretter`.
 
 #### Tests
 
 * Tests should always be committed in the same PR as the code itself (‘I’ll add tests next’ is not acceptable).
 * Make sure tests are sensible and valid assumptions are made
 * Make sure edge cases are handled as well.
-* Tests can be great source to understand the changes. It can be a strategy to look at tests first to help you understand the changes better.
+* Tests can be a great source to understand the changes. It can be a strategy to look at tests first to help you understand the changes better.
 
 ## Typescript Checklist
 
-* [ ] Does the code follow the code standards
+* [ ] Does the code follow the code standards?
 * [ ] Are tests arranged correctly with the Arrange/Act/Assert pattern and properly documented in this way?
 * [ ] Are unit tests used where possible?
 
-### Eslint
+### ESLint
 
 ```json
 {
@@ -248,7 +247,7 @@ We're using [`husky`](https://github.com/typicode/husky)
 
 ## Slack Bot Integration
 
-There are bot to help signal for code reviews.
+There are bots to help signal for code reviews.
 
 Please see, [HOV DevOps Bot](https://github.com/HighOutputVentures/hov-devops-bot)
 
@@ -258,7 +257,7 @@ Please see, [HOV DevOps Bot](https://github.com/HighOutputVentures/hov-devops-bo
 
 #### Each `Scenario` should be independent
 
-It could run alone and should not rely to other scenarios in order to run correctly.
+It could run alone and should not rely upon other scenarios to run correctly.
 
 ### Resources
 
