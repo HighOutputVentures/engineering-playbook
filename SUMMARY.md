@@ -5,7 +5,8 @@
 ## Agile Development
 
 * [Daily Standup](agile-development/daily-standup.md)
-* [Open Collaboration](agile-development/open-collaboration.md)
+* [Collaboration](agile-development/collaboration/README.md)
+  * [Mobile Designer X Mobile Developer](agile-development/collaboration/mobile-designer-x-mobile-developer.md)
 * [Backlog Management](agile-development/backlog-management.md)
 * [Card Management](agile-development/card-management/README.md)
   * [Writing an Acceptance Criteria](agile-development/card-management/writing-an-acceptance-criteria.md)

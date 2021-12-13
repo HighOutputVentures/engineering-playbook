@@ -1,6 +1,4 @@
-# Open Collaboration
-
-## Mobile Designer x Mobile Developer
+# Mobile Designer X Mobile Developer
 
 ### Colors
 
@@ -11,18 +9,18 @@
     * In this example, `Background` color name will display appropriate color depending on user’s UI settings.
     * `Background` will display `Light Gray` in light mode, and `Dark Gray` in dark mode
 
-![](../.gitbook/assets/mobile-ux-background-color.png)
+![](../../.gitbook/assets/mobile-ux-background-color.png)
 
 * Disregard this if color is identical in both light and dark modes
 * Use `Color` components in `everything`
 
 From this
 
-![](../.gitbook/assets/mobile-ux-background-disregard-color.png)
+![](../../.gitbook/assets/mobile-ux-background-disregard-color.png)
 
 To this, to enable flexible adjustments to colors later on.
 
-![](../.gitbook/assets/mobile-ux-enable-color.png)
+![](../../.gitbook/assets/mobile-ux-enable-color.png)
 
 *   It's also recommended to use `Semantics Names` rather than `Color Names` as colors may change later on, and dark mode often uses contrasting colors. (e.g. `Background` is white on light mode, then black in dark mode)
 
@@ -55,11 +53,11 @@ To this, to enable flexible adjustments to colors later on.
 
 From this
 
-![](../.gitbook/assets/mobile-ux-base-typography.png)
+![](../../.gitbook/assets/mobile-ux-base-typography.png)
 
 To this
 
-![](../.gitbook/assets/mobile-ux-tranformed-typography.png)
+![](../../.gitbook/assets/mobile-ux-tranformed-typography.png)
 
 * This prevents inconsistencies with the design components
 * And enables flexibility for adjustments on both design and developer side
