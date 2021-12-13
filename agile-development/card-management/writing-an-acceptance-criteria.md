@@ -5,6 +5,8 @@
 #### One Scenario should only have one result
 
 ```gherkin
+# Bad example
+
 Scenario: Simple product search
     Given the shoe store, the home page is displayed
     When the search phrase "red pumps" is entered
@@ -18,6 +20,8 @@ It has two results since it has two `When-Then`.
 Separating `When-Then` into two scenarios would create one result for each scenario.
 
 ```gherkin
+# Good example
+
 Scenario: Simple Web search
     Given the shoe store, the home page is displayed
     When the search phrase "red pumps" is entered
@@ -29,7 +33,7 @@ Scenario: Simple Web image search
     Then image results for "red pumps" are shown
 ```
 
-This is easy to trace because each failure points to a unique problem.
+This is easy to trace because **each failure points to a unique problem**.
 
 It is concise and more focus on a particular scenario.
 
@@ -43,6 +47,7 @@ It is concise and more focus on a particular scenario.
 
 ```gherkin
 # Bad example
+
 Scenario: Shoes
   Given I want shoes
   When I buy shoes
@@ -53,6 +58,7 @@ This is a declarative form, BUT **too vague and ambiguous**.
 
 ```gherkin
 # Bad example
+
 Scenario: Purchase shoes through the app
   Given my username is "jessica8494"
   And my password is "PleaseDontPutSecretsInGherkin"
@@ -77,8 +83,9 @@ Now take this another example, a complete opposite of the previous one. This is 
 
 ```gherkin
 # Good example
+
 Scenario: Add shoes to the shopping cart
-  Given the shoe store, home page is displayed
+  Given the shoe store, the home page is displayed
   When the shopper searches for "red pumps"
   And the shopper adds the first result to the cart
   Then the cart has one pair of "red pumps"
@@ -86,13 +93,15 @@ Scenario: Add shoes to the shopping cart
 
 This example, have the right balance **to be declarative and at the same time has clear steps**.
 
-#### Make use of data table to display unique examples
+#### Make use of the data table to display unique examples
 
 ```gherkin
-Scenario outline: Invalid Password
-  GIVEN the password contain <invalid-format>
-  WHEN the user navigates to another field
-  THEN it would notify an error
+# Good example
+
+Scenario Outline: Invalid Password
+  Given the password contain <invalid-format>
+  When the user navigates to another field
+  Then it would notify an error
 
    | invalid-format |
    | -------------- |
@@ -105,6 +114,8 @@ Scenario outline: Invalid Password
 #### Make use of the third person and be consistent throughout the scenario
 
 ```gherkin
+# Good example
+
 Scenario: Guests only see the promos
   Given the guest is unregistered.   
   When the guests apply to a promo
@@ -116,16 +127,26 @@ This example, have a clear persona.
 #### Remove ambiguity
 
 ```gherkin
-And image links for "sneakers"
-And video links for "sneakers"
+# Bad example
+
+Scenario: ...
+    Given ...
+    When ...
+    Then image and video links for "sneakers"
 ```
 
-Have ambiguous steps, clarify it like this:
+It has an ambiguous result, clarify it like this:
 
 ```gherkin
-And the results page shows image links for "sneakers"
-And the results page shows video links for "sneakers"
+# Good example
+
+Scenario: ...
+    Given ...
+    When ...
+    Then the results page shows image and video links for "sneakers"
 ```
+
+It explicitly tells you what exactly happens. The example above makes the readers reduce the potential assumptions.
 
 #### Make it consistent
 
