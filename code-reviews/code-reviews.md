@@ -1,7 +1,5 @@
 # Code Reviews
 
-
-
 ## Overview
 
 Reviewing of PRs
