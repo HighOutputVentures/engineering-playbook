@@ -18,7 +18,7 @@ These are the ones that are being manually tested and written automated tests.
 
 Shifting the Automated E2E Test to the left is recommended for every project unless you have these:
 
-1. No full-time Test Automation Engineers.
+1. No full-time Software QA Engineer (SQA).
 2. The story card is not automated test-worthy.
 
 ### QA Failed
