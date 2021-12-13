@@ -12,6 +12,7 @@
   * [Writing an Acceptance Criteria](agile-development/card-management/writing-an-acceptance-criteria.md)
 * [Pull System Task Assignment](agile-development/pull-system-task-assignment.md)
 * [Retrospectives](agile-development/retrospectives.md)
+* [Shift-left testing](agile-development/shift-left-testing.md)
 
 ## Code Reviews
 
