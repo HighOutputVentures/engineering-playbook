@@ -24,3 +24,7 @@
 ## Working Agreement
 
 * [Working Agreement](working-agreement/working-agreement.md)
+
+## Documentation
+
+* [GraphQL as an API Doc](documentation/graphql-as-an-api-doc.md)
