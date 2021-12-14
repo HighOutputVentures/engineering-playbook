@@ -22,4 +22,10 @@ Conducts agile retrospective for each iteration and project milestone.
 
 ### Iteration Retrospective
 
-Iteration reviews should follow the ceremony of the retrospective script, but using less time and fewer activities than the project or milestone retrospective. Iteration (sprint) retrospectives will focus more on execution and implementation details and how the team can improve execution for future iterations.
+Iteration reviews should follow the ceremony of the retrospective script but use less time and fewer activities than the project or milestone retrospective. Iteration (sprint) retrospectives will focus more on execution and implementation details and how the team can improve execution for future iterations.
+
+
+
+### Resources
+
+1. [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
