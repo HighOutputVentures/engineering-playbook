@@ -25,7 +25,7 @@ Delivery Manager / PM / Dev Lead are recommended that they will facilitate or le
 
 ### Stand-up length
 
-The length depends on the team size. However, we can shorten the length if have short answers to key questions.
+The length depends on the team size. However, we can shorten the length if we have a short answer to each key question.
 
 * 15-30+ minutes - Too long and needs improvement
 * 10-15 minutes - Satisfactory
