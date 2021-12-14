@@ -14,7 +14,7 @@ These are cards ready to be tested.
 
 ### QA In Progress
 
-These are the ones that are being manually tested and written automated tests.
+In this column, SQA will write an automation test and manually test the story card.
 
 Shifting the Automated E2E Test to the left is recommended for every project.
 
