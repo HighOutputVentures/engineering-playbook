@@ -21,7 +21,7 @@ The entire team should attend the stand-up. Anyone that worked on a task towards
 
 ### Facilitator
 
-Delivery Manager / PM / Dev Lead are recommended that they will facilitate or lead the daily stand-up.
+Delivery Manager / PM / Dev Lead is recommended to facilitate or lead the daily stand-up.
 
 ### Stand-up length
 
