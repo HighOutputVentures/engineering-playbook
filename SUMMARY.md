@@ -4,7 +4,7 @@
 
 ## Agile Development
 
-* [Daily Standup](agile-development/daily-standup.md)
+* [Daily Stand-up](agile-development/daily-stand-up.md)
 * [Collaboration](agile-development/collaboration/README.md)
   * [Mobile Designer X Mobile Developer](agile-development/collaboration/mobile-designer-x-mobile-developer.md)
 * [Backlog Management](agile-development/backlog-management.md)
