@@ -34,7 +34,7 @@ The length depends on the team size. However, we can shorten the length if have 
 
 ### Time to share updates
 
-How long did the contributors share their updates after the scheduled time?
+How long did the contributors begin sharing their updates after the scheduled time?
 
 * 0-1 min - Superb!
 * 1-5 minutes - Good
