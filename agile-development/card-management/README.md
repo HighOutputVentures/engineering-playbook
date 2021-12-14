@@ -1,6 +1,6 @@
 # Card Management
 
-## Overview
+
 
 Add guidelines and lean processes on different issue types, columns, and swimlanes to easily track meaningful progress.
 
