@@ -36,7 +36,7 @@ The length depends on the team size. However, we can shorten the length if we ha
 
 How long did the contributors begin sharing their updates after the scheduled time?
 
-* 0-1 min - Superb!
+* 0-1 minutes - Superb!
 * 1-5 minutes - Good
 * 5+ minutes - Needs improvement
 
