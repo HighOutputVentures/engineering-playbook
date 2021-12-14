@@ -1,7 +1,5 @@
 # Retrospectives
 
-## Overview
-
 Conducts agile retrospective for each iteration and project milestone.
 
 ## 🥅 Goals
