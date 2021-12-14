@@ -4,6 +4,7 @@
 
 ## Agile Development
 
+* [Kanban from the start](agile-development/kanban-from-the-start.md)
 * [Daily Stand-up](agile-development/daily-stand-up.md)
 * [Collaboration](agile-development/collaboration/README.md)
   * [Mobile Designer X Mobile Developer](agile-development/collaboration/mobile-designer-x-mobile-developer.md)
