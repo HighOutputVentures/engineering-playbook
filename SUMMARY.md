@@ -19,6 +19,7 @@
   * [Issue](agile-development/card-management/issue.md)
   * [Columns](agile-development/card-management/columns.md)
   * [Card organization](agile-development/card-management/card-organization.md)
+  * [Column Limit](agile-development/card-management/column-limit.md)
 * [Pull System Task Assignment](agile-development/pull-system-task-assignment.md)
 * [Retrospectives](agile-development/retrospectives.md)
 * [Shift-left testing](agile-development/shift-left-testing.md)
