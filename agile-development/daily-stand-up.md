@@ -48,7 +48,7 @@ How long did the contributors share their updates after the scheduled time?
 3. Contributors should ask questions or raise issues after all contributors finish answering the key questions. The facilitator should open the discussion to anyone who wants to raise questions or issues. This part of the meeting is optional.
 4. Start on time, begin answering questions as close to the scheduled time as possible. Avoid chit-chat or waiting on all team members to join. Starting immediately will help ensure stand-ups remain effective and useful over time.
 5. Same time every weekday, the meeting time should be mutually agreed upon by the contributors and should take into consideration the working schedules, power interruptions, and other factors so that every team member can reasonably participate.
-6. Contributors unable to attend could provide a written update through the shared channel in Slack before the stand-u. This way the facilitator could read aloud the update in the meeting.
+6. Contributors unable to attend could provide a written update through the shared channel in Slack before the stand-up. This way the facilitator could read aloud the update in the meeting.
 7. Take note of every card being created after the stand-up. This could be an indicator of how much unplanned work is being done. If creating a new card after stand-up becomes a routine, then this could also be an indicator of the story is at higher risk of not being completed.
 
 > **💡 Advisory Note:**
