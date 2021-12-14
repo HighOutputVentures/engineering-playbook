@@ -22,7 +22,10 @@
   * [Column Limit](agile-development/card-management/column-limit.md)
 * [Pull System Task Assignment](agile-development/pull-system-task-assignment.md)
 * [Retrospectives](agile-development/retrospectives.md)
-* [Shift-left testing](agile-development/shift-left-testing.md)
+* [Team Agreement](agile-development/team-agreement/README.md)
+  * [Working Agreement](agile-development/team-agreement/working-agreement.md)
+  * [Definition of Ready](agile-development/team-agreement/definition-of-ready.md)
+  * [Definition of Done](agile-development/team-agreement/definition-of-done.md)
 
 ## Code Reviews
 
@@ -31,10 +34,6 @@
 ## Source Control
 
 * [Source Control](source-control/source-control.md)
-
-## Working Agreement
-
-* [Working Agreement](working-agreement/working-agreement.md)
 
 ## Documentation
 
