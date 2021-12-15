@@ -1,17 +1,10 @@
-# Backlog Management
-
-## Sections
-
-1. Backlog Refinement
-   1. User Story Mapping
-
-## Backlog Refinement
+# Backlog Refinement
 
 Although there are several ways to groom and refine the backlogs, we must still pick a way where we can refine more and collaborate at the same time.
 
 ### 🥅 Goals
 
-The team review the items on the backlog to ensure that the backlog that they are prioritized by the user's demands. This activity occurs on a regular basis and maybe an officially scheduled meeting or an ongoing activity.
+The team reviews the items on the backlog to ensure that the backlog that they are prioritized by the user's demands. This activity occurs regularly and maybe an officially scheduled meeting or an ongoing activity.
 
 ### User Story Mapping
 
@@ -70,11 +63,11 @@ Don't introduce these to the Product Owner. Just tell them that we are just tryi
 
 ### How does USER STORY MAPPING work?
 
-1.  **Find out the different personas/type of users**
+1.  **Find out the different personas/types of users**
 
     It is better to determine different types of users or personas early on
 
-    If the product's main users are for the blind people then you should carefully for accessibility.
+    If the product's main users are blind people then you should care for accessibility.
 
     > This is usually discussed by the **Product Owner** and **Product Designer**. Feel free to invite other members.
 
@@ -133,10 +126,10 @@ Don't introduce these to the Product Owner. Just tell them that we are just tryi
 
             2. As an Admin, I can see the list of users, so that I can manage them well.
 
-            3. As an Admin, I can see more details of a user, so that I can revoke access or edit the profile of selected user.
+            3. As an Admin, I can see more details of a user, so that I can revoke access or edit the profile of the selected user.
 
          3. Recruit Candidate
-            1. As a Recruiter, I can search for candidates, so that I can have a pool of candidate to a vacant job.
+            1. As a Recruiter, I can search for candidates, so that I can have a pool of candidates fr a vacant job.
 
             2. As a Recruiter, I can contact a candidate, so that I can share details about the company and the vacant job.
          
@@ -158,9 +151,9 @@ Don't introduce these to the Product Owner. Just tell them that we are just tryi
 
          1. As an Admin, I want to register an Admin Role, so that I can have admin access.
 
-               1. As an Admin, I want to enter valid username, so that I can have a unique username.
+               1. As an Admin, I want to enter a valid username, so that I can have a unique username.
 
-               2. As an Admin, I want to enter a valid password, so that I can have a strong passsword strength.
+               2. As an Admin, I want to enter a valid password, so that I can have a strong password strength.
     ```
 5.  **Flow and prioritize**
 
@@ -176,7 +169,7 @@ Don't introduce these to the Product Owner. Just tell them that we are just tryi
 
 1.  Limited Utility
 
-    There are some tools that can use for a decent mapping of user stories.
+    Some tools can use for a decent mapping of user stories.
 
     For example, [Avion](https://www.avion.io) and [Feature Map](https://www.featuremap.co/en).
 2.  Rework and redundancy
@@ -208,10 +201,10 @@ Anyone can participate in mapping user stories.
 1. **Product Owners** should know what the customer wants.
 2. **Product Designers** should know what kind of solutions they want to raise.
 3. **Project Manager** is the one who sets milestones, strategic roadmaps.
-4. **QAs** are the one finding faults by testing the product.
-5. **Developer** are the one who completes the user stories.
+4. **QAs** are the ones finding faults by testing the product.
+5. **Developers** are the one who completes the user stories.
 
-It is encourage to include ALL the members when mapping the user stories. This will reduce loopholes.
+It is encouraging to include ALL the members when mapping the user stories. This will reduce loopholes.
 
 ***
 
