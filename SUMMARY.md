@@ -29,13 +29,14 @@
   * [Definition of Ready](agile-development/team-agreement/definition-of-ready.md)
   * [Definition of Done](agile-development/team-agreement/definition-of-done.md)
 
-## Code Reviews
+## Github
 
-* [Code Reviews](code-reviews/code-reviews.md)
-
-## Source Control
-
-* [Source Control](source-control/source-control.md)
+* [Source Control](github/source-control.md)
+* [Merge Strategies](github/merge-strategies.md)
+* [Versioning](github/versioning.md)
+* [Code Reviews](github/code-reviews/README.md)
+  * [Author's Checklist](github/code-reviews/authors-checklist.md)
+  * [Reviewer's Checklist](github/code-reviews/reviewers-checklist.md)
 
 ## Documentation
 
