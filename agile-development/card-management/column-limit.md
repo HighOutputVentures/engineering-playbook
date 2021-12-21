@@ -48,3 +48,7 @@ WIP Limit of a column = % Total VA * Total WIP Limit
 | QA In Progress | 3            | 15%                     | 3         |
 | QA Failed      | 2            | 10%                     | 2         |
 | Done           | 1            | 5%                      | -         |
+
+### Resources
+
+1. [Kanbanize - WIP Limits](https://kanbanzone.com/resources/kanban/wip-limits/)
