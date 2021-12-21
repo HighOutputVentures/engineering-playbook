@@ -1,4 +1,4 @@
-# Writing an Acceptance Criteria
+# Proper acceptance criteria
 
 ## Standard
 
@@ -79,7 +79,9 @@ Scenario: Purchase shoes through the app
   And ...
 ```
 
-Now take this another example, a complete opposite of the previous one. This is written in an imperative form and **it is too descriptive**.
+Now take this another example, a complete opposite of the previous one. This is written in an imperative form and **it is too descriptive**.&#x20;
+
+Focus on the part of "what" and "why". 'What' you want and the 'why' to your development team.  Minimize from using the technical jargons
 
 ```gherkin
 # Good example
@@ -165,3 +167,4 @@ Take note of these steps and it's intention.
 5. [BDD -- Automation without Collaboration](https://automationpanda.com/2017/07/26/bdd-automation-without-collaboration/)
 6. [BDD Example Mapping](https://automationpanda.com/2018/02/27/bdd-example-mapping/)
 7. [What is a good feature or user story template](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template)
+8. [How to write an acceptance criteria](https://productcoalition.com/how-to-write-acceptance-criteria-e2be975f92a3)
