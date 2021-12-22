@@ -29,6 +29,7 @@
   * [Working Agreement](agile-development/team-agreement/working-agreement.md)
   * [Definition of Ready](agile-development/team-agreement/definition-of-ready.md)
   * [Definition of Done](agile-development/team-agreement/definition-of-done.md)
+* [Agile Metrics](agile-development/agile-metrics.md)
 
 ## Github
 
