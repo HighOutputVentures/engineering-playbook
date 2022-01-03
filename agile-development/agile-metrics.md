@@ -15,7 +15,13 @@ In Kanban, this is where we calculate the card from In **Progress** to **Done.**
 
 We also need to measure the **Average Cycle Time** so that we could answer in a situation where the business owners asked how long the feature will take.
 
+**Average Work In Progress = Cards under In Progress in Daily / Weekly / Monthly**
 
+**Average Throughput**
+
+**Average Cycle Time = Average Work In Progress / Average Throughput**
+
+****
 
 ####
 
