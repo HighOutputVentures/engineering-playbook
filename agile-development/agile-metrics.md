@@ -2,11 +2,36 @@
 
 ### Main Metrics
 
-1. **Cycle Time** - is the time your team spends actively on the client's request
-2. **Change of Failure Rate** - the percentage rate of code changes that require hotfixes after production.
-3. **Defects found after release to customers** - bugs found after the release to the customers
-4. **Mean Time to Detect** - mean amount of time it takes for the team to discover or detect an incident.
-5. **Defects found during development** - bugs found during development
+#### Cycle Time&#x20;
+
+Is the time your team spends actively on the client's request
+
+![ ](<../.gitbook/assets/Screen Shot 2022-01-03 at 10.39.06 AM.png>)
+
+In Kanban this where we calculate the, card from In **Progress** to **Done.**  It is important to note that cycle time can be calculated in different issue types.
+
+\
+Cycle Time = Start Date Time - End Date Time
+
+
+
+####
+
+#### Change of Failure Rate
+
+The percentage rate of code changes that require hotfixes after production.
+
+#### **Defects found after release to customers**
+
+Bugs found after the release to the customers
+
+#### **Mean Time to Detect**
+
+Mean amount of time it takes for the team to discover or detect an incident.
+
+#### **Defects Found During Development**
+
+Bugs found during development
 
 ### **Other Metrics**
 
