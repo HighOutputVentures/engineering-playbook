@@ -13,6 +13,8 @@ In Kanban this where we calculate the, card from In **Progress** to **Done.**  I
 \
 Cycle Time = Start Date Time - End Date Time
 
+We also need to measure the Average Cycle Time so that we could answer in a situation where the business owners asked how long the feature will take.
+
 
 
 ####
