@@ -8,12 +8,12 @@ Is the time your team spends actively on the client's request
 
 ![ ](<../.gitbook/assets/Screen Shot 2022-01-03 at 10.39.06 AM.png>)
 
-In Kanban this where we calculate the, card from In **Progress** to **Done.**  It is important to note that cycle time can be calculated in different issue types.
+In Kanban, this is where we calculate the card from In **Progress** to **Done.**  It is important to note that cycle time can be calculated in different issue types.
 
 \
-Cycle Time = Start Date Time - End Date Time
+**Cycle Time = Start Date Time - End Date Time**
 
-We also need to measure the Average Cycle Time so that we could answer in a situation where the business owners asked how long the feature will take.
+We also need to measure the **Average Cycle Time** so that we could answer in a situation where the business owners asked how long the feature will take.
 
 
 
