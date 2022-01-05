@@ -11,25 +11,49 @@ Is the time your team spends actively on the client's request
 In Kanban, this is where we calculate the card from In **Progress** to **Done.**  It is important to note that cycle time can be calculated in different issue types.
 
 \
-**Cycle Time = Start Date Time - End Date Time**
+**`Cycle Time = Start Date Time - End Date Time`**
 
 We also need to measure the **Average Cycle Time** so that we could answer in a situation where the business owners asked how long the feature will take.
 
+**Average Work In Progress = No. of  story cards started but not finished**
+
+**Example:**
+
+* Monday - 3
+* Tuesday - 4
+* Wednesday - 3
+* Thursday - 2
+* Friday - 2
+
+**`Average Work In Progress = (1 + 1 + 2 + 2 + 2) / 5`**
+
+**`Average Work In Progress = 2.8 (3 WIP cards per day)`**
+
 ****
 
-**Work In Progress =**&#x20;
+**`Average Throughput = No. of done story cards per unit of time`**
 
-**Throughput =**&#x20;
+**Example:**
 
-**Average Work In Progress =**&#x20;
+* Monday - 1
+* Tuesday - 1
+* Wednesday - 2
+* Thursday - 3
+* Friday - 2
 
-**Average Throughput =**&#x20;
+**`Average Throughput = (1 + 1 + 2 + 3 + 2) / 5`**
 
-**Average Cycle Time = Average Work In Progress / Average Throughput**
+**`Average Throughput = 1.8 (2 cards per day)`**
 
-****
 
-####
+
+**`Average Cycle Time = Average Work In Progress / Average Throughput`**
+
+**`Average Cycle Time = 3 / 2`**
+
+**`Average Cycle Time = 1.5 ( 2 days to finish a story card)`**
+
+#### ``
 
 #### Change of Failure Rate
 
