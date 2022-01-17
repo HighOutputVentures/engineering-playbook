@@ -23,6 +23,7 @@
   * [Columns](agile-development/card-management/columns.md)
   * [Card organization](agile-development/card-management/card-organization.md)
   * [Column Limit](agile-development/card-management/column-limit.md)
+  * [Board Templates](agile-development/card-management/board-templates.md)
 * [Pull System Task Assignment](agile-development/pull-system-task-assignment.md)
 * [Retrospectives](agile-development/retrospectives.md)
 * [Team Agreement](agile-development/team-agreement/README.md)
