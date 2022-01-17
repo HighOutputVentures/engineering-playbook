@@ -1,6 +1,6 @@
 # Columns
 
-### To Do
+### To Do / Selected For Development
 
 These are priority cards moved from the Backlog and ready for development. The team should follow their own Definition of Ready.
 
@@ -8,11 +8,11 @@ These are priority cards moved from the Backlog and ready for development. The t
 
 These are cards that are ongoing.
 
-### Ready For QA
+### Ready For Acceptance Testing
 
 These are cards ready to be tested.
 
-### QA In Progress
+### Acceptance Testing In Progress
 
 In this column, SQA will write an automation test and manually test the story card.
 
@@ -29,7 +29,7 @@ These are the things that you do not consider shift-left testing:
 1. No full-time Software QA Engineer (SQA).
 2. The story card is not automated test-worthy.
 
-### QA Failed
+### Acceptance Testing Failed
 
 These are the cards that failed on testing.
 

@@ -1,4 +1,4 @@
-# Issue
+# Defect
 
 This is a bug card under a specified story card. This can help us limit the scope of the incident
 

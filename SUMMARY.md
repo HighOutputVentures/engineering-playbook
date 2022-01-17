@@ -19,7 +19,7 @@
   * [Bug](agile-development/card-management/bug.md)
   * [Hotfix](agile-development/card-management/hotfix.md)
   * [Sub-task](agile-development/card-management/sub-task.md)
-  * [Defect](agile-development/card-management/defect.md)
+  * [Defect](agile-development/card-management/issue.md)
   * [Columns](agile-development/card-management/columns.md)
   * [Card organization](agile-development/card-management/card-organization.md)
   * [Column Limit](agile-development/card-management/column-limit.md)
