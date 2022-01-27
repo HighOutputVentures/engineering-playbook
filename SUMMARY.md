@@ -44,3 +44,7 @@
 ## Documentation
 
 * [GraphQL as an API Doc](documentation/graphql-as-an-api-doc.md)
+
+## DevOps
+
+* [Continuous Integration](devops/continuous-integration.md)
